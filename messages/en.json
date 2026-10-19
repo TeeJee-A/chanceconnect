@@ -1,0 +1,790 @@
+{
+  "meta": {
+    "title": "ChanceConnect — Apprenticeship & skilled-worker placement Morocco – Germany",
+    "description": "ChanceConnect connects motivated young talent and skilled professionals from Morocco with companies and training institutions in Germany — personally guided from application to integration."
+  },
+  "nav": {
+    "home": "Home",
+    "applicants": "For Applicants",
+    "employers": "For Employers",
+    "jobs": "Jobs",
+    "about": "About us",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "menu": "Menu",
+    "language": "Language",
+    "services": "Services"
+  },
+  "common": {
+    "applyNow": "Apply now",
+    "requestStaff": "Request staff",
+    "learnMore": "Learn more",
+    "iAmApplicant": "I'm an applicant",
+    "iAmEmployer": "I'm an employer",
+    "getInTouch": "Get in touch",
+    "comingSoon": "Coming soon",
+    "backHome": "Back to home",
+    "skipToContent": "Skip to content",
+    "close": "Close"
+  },
+  "home": {
+    "hero": {
+      "badge": "Apprenticeship & skilled-worker placement Morocco – Germany",
+      "titleLead": "Your career in Germany",
+      "titleAccent": "begins here.",
+      "subtitle": "We connect motivated young talent and qualified professionals from Morocco with companies and training institutions in Germany — personally guided from the first application to successful integration.",
+      "stats": {
+        "satisfaction": "Satisfaction",
+        "languages": "Languages served",
+        "support": "Support through integration"
+      },
+      "journey": {
+        "title": "Your path to Germany",
+        "chip": "Personally guided",
+        "from": "Morocco",
+        "to": "Germany",
+        "steps": [
+          "Application & CV",
+          "Online interview",
+          "Contract & visa",
+          "Arrival & integration"
+        ],
+        "status": {
+          "done": "Done",
+          "current": "In progress",
+          "next": "Up next"
+        },
+        "employerFree": "Free for employers",
+        "languages": "Service in 4 languages"
+      }
+    },
+    "audience": {
+      "title": "Choose your path",
+      "subtitle": "Two paths, one goal: the right connection between talent and company.",
+      "applicant": {
+        "label": "For Applicants",
+        "title": "Start your career in Germany",
+        "desc": "Apprenticeship or skilled work — we support you with application, visa, entry and arrival.",
+        "cta": "For Applicants",
+        "points": [
+          "Apprenticeship & skilled placement",
+          "Visa & document service",
+          "Support all the way to Germany"
+        ]
+      },
+      "employer": {
+        "label": "For Employers",
+        "title": "Find motivated professionals",
+        "desc": "We place vetted apprentices and skilled workers — free of charge for employers.",
+        "cta": "For Employers",
+        "points": [
+          "Pre-selected candidates",
+          "Online interviews",
+          "Free placement"
+        ]
+      }
+    },
+    "whyUs": {
+      "title": "Why ChanceConnect?",
+      "subtitle": "A partner who understands both sides — and guides you at every step.",
+      "items": [
+        {
+          "title": "Personal support",
+          "desc": "A dedicated contact guides you from the first enquiry to your first day at work."
+        },
+        {
+          "title": "International placement",
+          "desc": "We connect talent from Morocco with companies and institutions across Germany."
+        },
+        {
+          "title": "Digital process",
+          "desc": "Application, review and interviews — fully online and transparent."
+        },
+        {
+          "title": "Precise matching",
+          "desc": "We select candidates carefully so profile and position truly fit."
+        },
+        {
+          "title": "Through to integration",
+          "desc": "Our support doesn't end at entry — it ends with a successful arrival."
+        },
+        {
+          "title": "Multilingual service",
+          "desc": "We communicate in German, English, French and Arabic."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How it works",
+      "subtitle": "Two clear paths — one personally guided process.",
+      "applicantTitle": "For Applicants",
+      "employerTitle": "For Employers",
+      "applicantSteps": [
+        {
+          "title": "Contact & CV",
+          "desc": "Send us your CV via WhatsApp or email."
+        },
+        {
+          "title": "Document review",
+          "desc": "We review your profile and qualifications."
+        },
+        {
+          "title": "Online interview",
+          "desc": "We arrange the interview with the employer."
+        },
+        {
+          "title": "Contract & visa",
+          "desc": "After the offer we guide the contract and visa process."
+        },
+        {
+          "title": "Arrival & integration",
+          "desc": "Pick-up, housing, registration — we're there on the ground."
+        }
+      ],
+      "employerSteps": [
+        {
+          "title": "Staff request",
+          "desc": "Tell us your needs and requirement profile."
+        },
+        {
+          "title": "Pre-selection",
+          "desc": "You receive suitable, pre-vetted candidates."
+        },
+        {
+          "title": "Online interviews",
+          "desc": "Meet your candidates in a video call."
+        },
+        {
+          "title": "Selection & support",
+          "desc": "We guide the process through to the first day."
+        }
+      ]
+    },
+    "sectors": {
+      "title": "Popular fields",
+      "subtitle": "We place apprentices and skilled workers in in-demand industries.",
+      "cta": "All job openings",
+      "items": [
+        {
+          "name": "Care & Health",
+          "desc": "Nursing & elderly care"
+        },
+        {
+          "name": "Gastronomy",
+          "desc": "Kitchen & service"
+        },
+        {
+          "name": "Hospitality",
+          "desc": "Reception & operations"
+        },
+        {
+          "name": "Trades & Technical",
+          "desc": "Electrical & mechatronics"
+        },
+        {
+          "name": "Industry",
+          "desc": "Production & logistics"
+        },
+        {
+          "name": "More professions",
+          "desc": "And many more"
+        }
+      ]
+    },
+    "values": {
+      "title": "Our values",
+      "subtitle": "What we believe in — in every collaboration.",
+      "items": [
+        "Trust",
+        "Quality",
+        "Transparency",
+        "Respect",
+        "Commitment"
+      ]
+    },
+    "stories": {
+      "title": "Success stories",
+      "quote": "Our success stories begin with you.",
+      "subtitle": "Perhaps we'll soon be telling your story. Become part of the next generation of professionals in Germany.",
+      "cta": "Start now"
+    },
+    "cta": {
+      "title": "Creating prospects together.",
+      "subtitle": "Whether it's vocational training, a fresh career start or international recruitment — we bring people and opportunities together.",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "applicant": "I'm an applicant",
+      "employer": "I'm an employer"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Services",
+      "description": "International placement of skilled workers and apprentices between Morocco and Germany — apprentice and professional placement, recruitment and cooperation with educational institutions."
+    },
+    "hero": {
+      "badge": "Our services",
+      "title": "Skilled-worker and apprenticeship placement between Morocco and Germany",
+      "subtitle": "We connect motivated young talent and qualified professionals from Morocco with German companies and training institutions. Our focus is on targeted placement, personal support and long-term career prospects."
+    },
+    "section": {
+      "eyebrow": "Our services",
+      "title": "International skilled-worker and apprenticeship placement between Morocco and Germany",
+      "subtitle": "We connect motivated young talent and qualified professionals from Morocco with German companies and training institutions. Our focus is on targeted placement, personal support and long-term career prospects.",
+      "cta": "View all services",
+      "items": [
+        {
+          "tag": "For applicants",
+          "title": "Placement of apprentices",
+          "desc": "We give motivated young people from Morocco access to vocational training (Ausbildung) positions in Germany. We take their school qualifications, language skills and career interests into account to place them in suitable training opportunities across different industries."
+        },
+        {
+          "tag": "For applicants",
+          "title": "Placement of skilled workers",
+          "desc": "We support qualified professionals from Morocco in finding suitable employment in Germany. By considering their professional skills, work experience and individual career goals, we lay the foundation for a successful placement."
+        },
+        {
+          "tag": "For employers",
+          "title": "Recruitment for companies and institutions",
+          "desc": "We help German companies and institutions recruit motivated apprentices and qualified professionals from Morocco. Based on your individual staffing needs, we identify suitable candidates and present matching applicant profiles."
+        },
+        {
+          "tag": "For educational institutions",
+          "title": "Cooperation with training and educational institutions",
+          "desc": "We work with nursing schools, training centres and other educational institutions to promote international training opportunities, supporting collaboration between education providers, training companies and suitable applicants from Morocco."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "We bring people and opportunities together.",
+    "blurb": "Apprenticeship and skilled-worker placement between Morocco and Germany — personal, transparent and long-term.",
+    "columns": {
+      "explore": "Explore",
+      "legal": "Legal",
+      "contact": "Contact"
+    },
+    "rights": "All rights reserved.",
+    "legal": {
+      "privacy": "Privacy",
+      "imprint": "Imprint",
+      "terms": "Terms"
+    }
+  },
+  "bewerber": {
+    "meta": {
+      "title": "For Applicants",
+      "description": "Start your career in Germany — ChanceConnect supports you with apprenticeships, skilled placement, visa, entry and integration."
+    },
+    "hero": {
+      "badge": "For Applicants",
+      "title": "Start your career in Germany",
+      "subtitle": "Apprenticeship or skilled professional — we guide you personally from the first application through the visa to a successful arrival in Germany."
+    },
+    "services": {
+      "title": "Our services",
+      "subtitle": "Everything you need to start in Germany — from a single partner.",
+      "items": [
+        {
+          "title": "Apprenticeship",
+          "desc": "We place you in an apprenticeship with a German company."
+        },
+        {
+          "title": "Skilled placement",
+          "desc": "As a qualified professional, we find the right position for you."
+        },
+        {
+          "title": "Application documents",
+          "desc": "We help with your CV and all paperwork."
+        },
+        {
+          "title": "Visa & documents",
+          "desc": "We guide you through the visa process and documents."
+        },
+        {
+          "title": "Online interviews",
+          "desc": "We arrange interviews with German employers."
+        },
+        {
+          "title": "Guidance until entry",
+          "desc": "We're by your side until you arrive in Germany."
+        }
+      ]
+    },
+    "arrival": {
+      "title": "Support after arrival",
+      "subtitle": "Our service doesn't end with your entry — we support you in Germany too.",
+      "items": [
+        "Airport pick-up",
+        "Help finding accommodation",
+        "Residents' registration",
+        "Opening a bank account",
+        "Health insurance",
+        "Tax ID",
+        "Dealing with authorities",
+        "SIM card",
+        "Personal support"
+      ]
+    }
+  },
+  "arbeitgeber": {
+    "meta": {
+      "title": "For Employers",
+      "description": "ChanceConnect helps German companies recruit motivated apprentices and skilled workers — free of charge and personally guided."
+    },
+    "hero": {
+      "badge": "Free for employers",
+      "title": "Find motivated professionals",
+      "subtitle": "Looking for apprentices or qualified professionals? We place vetted candidates from Morocco — placement is free for employers."
+    },
+    "services": {
+      "title": "Our services",
+      "subtitle": "We handle the entire recruitment process — you make the choice.",
+      "items": [
+        {
+          "title": "Apprentice placement",
+          "desc": "Motivated young talent for your apprenticeship positions."
+        },
+        {
+          "title": "Skilled-worker placement",
+          "desc": "Qualified professionals for your needs."
+        },
+        {
+          "title": "Candidate pre-selection",
+          "desc": "We vet and shortlist suitable candidates for you."
+        },
+        {
+          "title": "Online interviews",
+          "desc": "We arrange the video interviews with candidates."
+        },
+        {
+          "title": "Document service",
+          "desc": "We support all required paperwork."
+        },
+        {
+          "title": "Personal contact",
+          "desc": "A dedicated contact guides you through the process."
+        },
+        {
+          "title": "Long-term partnership",
+          "desc": "We build sustainable collaborations."
+        }
+      ]
+    },
+    "process": {
+      "title": "How it works",
+      "subtitle": "Six steps to your new professional.",
+      "steps": [
+        {
+          "title": "Send a staff request",
+          "desc": "Tell us your needs."
+        },
+        {
+          "title": "Discuss the profile",
+          "desc": "We define the right profile together."
+        },
+        {
+          "title": "Receive matching candidates",
+          "desc": "You get pre-selected candidates."
+        },
+        {
+          "title": "Online interviews",
+          "desc": "Meet your candidates."
+        },
+        {
+          "title": "Make your choice",
+          "desc": "You decide who to hire."
+        },
+        {
+          "title": "Support until the start",
+          "desc": "We guide the process to the first day."
+        }
+      ]
+    },
+    "why": {
+      "title": "Why talent from Morocco?",
+      "subtitle": "Motivated candidates stand out through real strengths.",
+      "items": [
+        {
+          "title": "Motivation",
+          "desc": "High self-motivation and commitment."
+        },
+        {
+          "title": "Willingness to learn",
+          "desc": "Open to new things and quick to onboard."
+        },
+        {
+          "title": "Solid training",
+          "desc": "Sound professional foundations."
+        },
+        {
+          "title": "Reliability",
+          "desc": "Responsible and dependable."
+        },
+        {
+          "title": "Long-term interest",
+          "desc": "Genuine interest in a career in Germany."
+        }
+      ]
+    }
+  },
+  "jobs": {
+    "meta": {
+      "title": "Jobs",
+      "description": "Current fields for apprenticeships and skilled work in Germany — placed by ChanceConnect."
+    },
+    "hero": {
+      "badge": "Jobs",
+      "title": "In-demand professions in Germany",
+      "subtitle": "We place in fields with high demand — find yours and start your application."
+    },
+    "roles": {
+      "title": "Popular fields",
+      "subtitle": "Apprenticeships and skilled positions in sought-after industries.",
+      "items": [
+        {
+          "title": "Care & Health",
+          "desc": "Nursing, elderly care, medical support roles."
+        },
+        {
+          "title": "Gastronomy",
+          "desc": "Chefs, service staff, kitchen assistants."
+        },
+        {
+          "title": "Hospitality",
+          "desc": "Reception, housekeeping, hotel operations."
+        },
+        {
+          "title": "Trades & Technical",
+          "desc": "Electricians, mechatronics, plant construction."
+        },
+        {
+          "title": "Industry",
+          "desc": "Production, logistics, warehouse logistics."
+        },
+        {
+          "title": "More professions",
+          "desc": "Many more apprenticeship and skilled positions."
+        }
+      ]
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About us",
+      "description": "ChanceConnect specialises in placing apprentices and skilled workers with companies in Germany — personal, transparent and international."
+    },
+    "hero": {
+      "badge": "About us",
+      "title": "Creating opportunities, shaping futures",
+      "subtitle": "ChanceConnect connects talent from Morocco with companies and training institutions in Germany — professionally guided from the first application to successful integration."
+    },
+    "intro": {
+      "title": "Who we are",
+      "paragraphs": [
+        "ChanceConnect specialises in placing apprentices and skilled workers from Morocco with companies and training institutions in Germany.",
+        "We guide applicants and employers professionally — from the first application through the visa to successful integration. Our goal is to create opportunities and build long-term partnerships."
+      ]
+    },
+    "pillars": {
+      "title": "What we stand for",
+      "subtitle": "Three principles shape our work.",
+      "items": [
+        {
+          "title": "Personal",
+          "desc": "A dedicated contact at every step of the way."
+        },
+        {
+          "title": "Transparent",
+          "desc": "Clear processes and honest communication."
+        },
+        {
+          "title": "International",
+          "desc": "Talent from Morocco, opportunities across Germany."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "meta": {
+      "title": "FAQ",
+      "description": "Common questions on applying, placement, visa and support — ChanceConnect answers the most important questions."
+    },
+    "hero": {
+      "badge": "FAQ",
+      "title": "Frequently asked questions",
+      "subtitle": "Answers to the most important questions from applicants and employers."
+    },
+    "title": "Questions & answers",
+    "subtitle": "Can't find your question? Feel free to contact us directly.",
+    "items": [
+      {
+        "q": "Which countries do your applicants come from?",
+        "a": "Our focus is Morocco. We place motivated young talent and skilled professionals from Morocco with companies and training institutions across Germany."
+      },
+      {
+        "q": "Does placement cost anything for employers?",
+        "a": "No. Our recruitment service is free of charge for employers."
+      },
+      {
+        "q": "How can I apply as a candidate?",
+        "a": "Simply via WhatsApp or email. Send us your CV and we'll get back to you."
+      },
+      {
+        "q": "Are the interviews held online?",
+        "a": "Yes. We arrange online interviews between applicants and employers."
+      },
+      {
+        "q": "Do you also support after arrival in Germany?",
+        "a": "Yes. We help with airport pick-up, finding accommodation, registration, bank account, health insurance and dealing with authorities, among others."
+      },
+      {
+        "q": "Which languages do you offer your service in?",
+        "a": "We communicate in German, English, French and Arabic."
+      },
+      {
+        "q": "In which fields do you place candidates?",
+        "a": "Among others in care & health, gastronomy, hospitality, trades & technical, and industry."
+      },
+      {
+        "q": "Do you work with educational institutions?",
+        "a": "Yes. We cooperate with nursing schools, training centres and other educational institutions, and support their collaboration with training companies and suitable applicants from Morocco."
+      }
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact",
+      "description": "Contact ChanceConnect via WhatsApp, email or our contact form. We look forward to hearing from you."
+    },
+    "hero": {
+      "badge": "Contact",
+      "title": "Let's talk",
+      "subtitle": "Whether applicant or employer — choose whichever way suits you best."
+    },
+    "methods": {
+      "title": "How to reach us",
+      "whatsapp": "WhatsApp",
+      "whatsappDesc": "Quick reply by chat",
+      "email": "Email",
+      "emailDesc": "info@chanceconnect.de",
+      "languages": "We speak your language",
+      "languagesDesc": "German · English · French · Arabic"
+    },
+    "form": {
+      "title": "Send a message",
+      "subtitle": "Fill in the form — we'll get back to you shortly.",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "role": "I am",
+      "roleApplicant": "Applicant",
+      "roleEmployer": "Employer",
+      "roleOther": "Other",
+      "domain": "Field of interest (optional)",
+      "companyName": "Company name",
+      "message": "Your message",
+      "send": "Send message",
+      "sending": "Sending…",
+      "success": "Thank you! Your message has been sent — we'll get back to you shortly.",
+      "error": "Something went wrong. Please try again or email us directly at info@chanceconnect.de.",
+      "note": "Your message goes straight to our team — we usually reply within 24 hours."
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy",
+      "description": "ChanceConnect privacy policy under the GDPR."
+    },
+    "hero": {
+      "badge": "Legal",
+      "title": "Privacy policy",
+      "subtitle": "Information on how we process your personal data under the GDPR."
+    },
+    "updated": "Last updated: 19 October 2026",
+    "disclaimer": "This is a template. Please adapt it to your actual data processing and have it reviewed by a lawyer.",
+    "sections": [
+      {
+        "heading": "1. Controller",
+        "body": [
+          "The controller for data processing on this website is:",
+          "Falconidae, owner Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund, email: info@chanceconnect.de"
+        ]
+      },
+      {
+        "heading": "2. Collection of personal data",
+        "body": [
+          "We process personal data you provide via the contact form, email or WhatsApp — such as name, contact details and application documents."
+        ]
+      },
+      {
+        "heading": "3. Purpose and legal basis",
+        "body": [
+          "Processing is carried out to handle your enquiry and for placement on the basis of Art. 6(1)(b) and (f) GDPR."
+        ]
+      },
+      {
+        "heading": "4. Data sharing",
+        "body": [
+          "Your data is shared with potential employers only with your consent."
+        ]
+      },
+      {
+        "heading": "5. Retention period",
+        "body": [
+          "We store your data only for as long as necessary for the stated purposes or as required by law."
+        ]
+      },
+      {
+        "heading": "6. Your rights",
+        "body": [
+          "You have the right to access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a supervisory authority."
+        ]
+      },
+      {
+        "heading": "7. Cookies",
+        "body": [
+          "This website uses only technically necessary cookies. [Please complete if further cookies or analytics tools are used.]"
+        ]
+      },
+      {
+        "heading": "8. Data protection contact",
+        "body": [
+          "For any privacy questions, contact us at info@chanceconnect.de."
+        ]
+      }
+    ]
+  },
+  "imprint": {
+    "meta": {
+      "title": "Imprint",
+      "description": "ChanceConnect imprint and provider identification pursuant to § 5 TMG."
+    },
+    "hero": {
+      "badge": "Legal",
+      "title": "Imprint",
+      "subtitle": "Information pursuant to § 5 TMG (German Telemedia Act)."
+    },
+    "updated": "Last updated: 19 October 2026",
+    "disclaimer": "This is a template. Please add your actual details and have the imprint reviewed by a lawyer.",
+    "sections": [
+      {
+        "heading": "Information pursuant to § 5 TMG",
+        "body": [
+          "Falconidae",
+          "Owner: Nabil Ayadi",
+          "Alter Heideweg 23",
+          "44339 Dortmund, Germany"
+        ]
+      },
+      {
+        "heading": "Represented by",
+        "body": [
+          "Nabil Ayadi"
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Contact person: Nabil Ayadi",
+          "Email: info@chanceconnect.de"
+        ]
+      },
+      {
+        "heading": "VAT ID",
+        "body": [
+          "VAT identification number pursuant to § 27 a of the German VAT Act: DE 332476902"
+        ]
+      },
+      {
+        "heading": "Liability for content and links",
+        "body": [
+          "The contents of these pages were created with the utmost care. However, we assume no liability for their accuracy, completeness or timeliness. The operators of external linked sites are solely responsible for their content."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms",
+      "description": "ChanceConnect general terms and conditions for the placement of trainees and skilled workers."
+    },
+    "hero": {
+      "badge": "Legal",
+      "title": "Terms and conditions",
+      "subtitle": "The terms governing the use of our placement services for applicants and employers."
+    },
+    "updated": "Last updated: 19 October 2026",
+    "disclaimer": "This is a template. Please adapt the terms to your actual services and have them reviewed by a lawyer.",
+    "sections": [
+      {
+        "heading": "1. Scope",
+        "body": [
+          "The ChanceConnect brand is operated by Falconidae, owner Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund.",
+          "These general terms and conditions (GTC) apply to all services provided by ChanceConnect (\"we\" or \"ChanceConnect\") to applicants and employers (\"users\").",
+          "Any conflicting terms of the user shall only apply if we expressly agree to them in writing."
+        ]
+      },
+      {
+        "heading": "2. Subject of the services",
+        "body": [
+          "ChanceConnect places international trainees and skilled workers with companies in Germany and supports the entire process — from application and the visa procedure to arrival and integration.",
+          "The specific scope of services results from the respective agreement and the descriptions on this website."
+        ]
+      },
+      {
+        "heading": "3. Formation of the contract",
+        "body": [
+          "The presentation of our services on the website does not constitute a binding offer. A contract is only concluded once we expressly accept a request or begin providing the service."
+        ]
+      },
+      {
+        "heading": "4. User obligations to cooperate",
+        "body": [
+          "The user shall provide all information and documents required for placement completely and truthfully and keep them up to date.",
+          "The user is responsible for the accuracy of the data, certificates and proof of qualifications submitted."
+        ]
+      },
+      {
+        "heading": "5. Fees",
+        "body": [
+          "Placement is free of charge for applicants. For employers, any fee is governed by the individual agreement.",
+          "Unless otherwise agreed, the user incurs no costs from using this website."
+        ]
+      },
+      {
+        "heading": "6. No placement guarantee",
+        "body": [
+          "We provide our services with the utmost care but do not owe any particular outcome. There is no entitlement to the conclusion of a training or employment relationship or to the granting of a visa.",
+          "Decisions by employers and authorities are beyond our control."
+        ]
+      },
+      {
+        "heading": "7. Liability",
+        "body": [
+          "We are liable without limitation for intent and gross negligence as well as for damage arising from injury to life, body or health.",
+          "In the case of simple negligence, we are liable only for the breach of a material contractual obligation and limited to the foreseeable damage typical of the contract."
+        ]
+      },
+      {
+        "heading": "8. Data protection",
+        "body": [
+          "Personal data is processed in accordance with our privacy policy."
+        ]
+      },
+      {
+        "heading": "9. Right of withdrawal",
+        "body": [
+          "Consumers have a statutory right of withdrawal. We provide the details separately in a withdrawal notice before the contract is concluded."
+        ]
+      },
+      {
+        "heading": "10. Final provisions",
+        "body": [
+          "The law of the Federal Republic of Germany applies, excluding the UN Convention on Contracts for the International Sale of Goods.",
+          "Should individual provisions of these GTC be invalid, the validity of the remaining provisions shall remain unaffected."
+        ]
+      }
+    ]
+  }
+}

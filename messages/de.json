@@ -1,0 +1,790 @@
+{
+  "meta": {
+    "title": "ChanceConnect — Ausbildungs- und Fachkräftevermittlung Marokko – Deutschland",
+    "description": "ChanceConnect verbindet motivierte Nachwuchs- und Fachkräfte aus Marokko mit Unternehmen und Ausbildungseinrichtungen in Deutschland – persönlich begleitet von der Bewerbung bis zur Integration."
+  },
+  "nav": {
+    "home": "Start",
+    "applicants": "Für Bewerber",
+    "employers": "Für Arbeitgeber",
+    "jobs": "Stellenangebote",
+    "about": "Über uns",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "menu": "Menü",
+    "language": "Sprache",
+    "services": "Leistungen"
+  },
+  "common": {
+    "applyNow": "Jetzt bewerben",
+    "requestStaff": "Personal anfragen",
+    "learnMore": "Mehr erfahren",
+    "iAmApplicant": "Ich bin Bewerber",
+    "iAmEmployer": "Ich bin Arbeitgeber",
+    "getInTouch": "Kontakt aufnehmen",
+    "comingSoon": "In Kürze verfügbar",
+    "backHome": "Zur Startseite",
+    "skipToContent": "Zum Inhalt springen",
+    "close": "Schließen"
+  },
+  "home": {
+    "hero": {
+      "badge": "Ausbildungs- & Fachkräftevermittlung Marokko – Deutschland",
+      "titleLead": "Deine Karriere in Deutschland",
+      "titleAccent": "beginnt hier.",
+      "subtitle": "Wir verbinden motivierte Nachwuchskräfte und qualifizierte Fachkräfte aus Marokko mit Unternehmen und Ausbildungseinrichtungen in Deutschland – persönlich begleitet von der ersten Bewerbung bis zur erfolgreichen Integration.",
+      "stats": {
+        "satisfaction": "Zufriedenheit",
+        "languages": "Sprachen im Service",
+        "support": "Begleitung bis zur Integration"
+      },
+      "journey": {
+        "title": "Dein Weg nach Deutschland",
+        "chip": "Persönlich begleitet",
+        "from": "Marokko",
+        "to": "Deutschland",
+        "steps": [
+          "Bewerbung & Lebenslauf",
+          "Online-Vorstellungsgespräch",
+          "Vertrag & Visum",
+          "Ankunft & Integration"
+        ],
+        "status": {
+          "done": "Erledigt",
+          "current": "In Bearbeitung",
+          "next": "Als Nächstes"
+        },
+        "employerFree": "Kostenlos für Arbeitgeber",
+        "languages": "Service in 4 Sprachen"
+      }
+    },
+    "audience": {
+      "title": "Wählen Sie Ihren Weg",
+      "subtitle": "Zwei Wege, ein Ziel: die richtige Verbindung zwischen Talent und Unternehmen.",
+      "applicant": {
+        "label": "Für Bewerber",
+        "title": "Starte deine Karriere in Deutschland",
+        "desc": "Ausbildung oder Fachkraft – wir begleiten dich bei Bewerbung, Visum, Einreise und Ankunft.",
+        "cta": "Für Bewerber",
+        "points": [
+          "Ausbildung & Fachkräftevermittlung",
+          "Visum- & Dokumentenservice",
+          "Begleitung bis nach Deutschland"
+        ]
+      },
+      "employer": {
+        "label": "Für Arbeitgeber",
+        "title": "Finden Sie motivierte Fachkräfte",
+        "desc": "Wir vermitteln geprüfte Auszubildende und Fachkräfte – für Arbeitgeber kostenlos.",
+        "cta": "Für Arbeitgeber",
+        "points": [
+          "Vorausgewählte Kandidaten",
+          "Online-Vorstellungsgespräche",
+          "Kostenlose Vermittlung"
+        ]
+      }
+    },
+    "whyUs": {
+      "title": "Warum ChanceConnect?",
+      "subtitle": "Ein Partner, der beide Seiten versteht – und auf jedem Schritt begleitet.",
+      "items": [
+        {
+          "title": "Persönliche Betreuung",
+          "desc": "Ein fester Ansprechpartner begleitet Sie von der ersten Anfrage bis zum Arbeitsbeginn."
+        },
+        {
+          "title": "Internationale Vermittlung",
+          "desc": "Wir verbinden Talente aus Marokko mit Unternehmen und Einrichtungen in ganz Deutschland."
+        },
+        {
+          "title": "Digitaler Prozess",
+          "desc": "Bewerbung, Prüfung und Vorstellungsgespräche – vollständig online und transparent."
+        },
+        {
+          "title": "Passgenaue Vermittlung",
+          "desc": "Wir wählen Kandidaten sorgfältig aus, damit Profil und Stelle wirklich passen."
+        },
+        {
+          "title": "Bis zur Integration",
+          "desc": "Unsere Unterstützung endet nicht bei der Einreise, sondern bei der erfolgreichen Ankunft."
+        },
+        {
+          "title": "Mehrsprachiger Service",
+          "desc": "Wir kommunizieren auf Deutsch, Englisch, Französisch und Arabisch."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "So funktioniert es",
+      "subtitle": "Zwei klare Wege – ein persönlich begleiteter Prozess.",
+      "applicantTitle": "Für Bewerber",
+      "employerTitle": "Für Arbeitgeber",
+      "applicantSteps": [
+        {
+          "title": "Kontakt & Lebenslauf",
+          "desc": "Senden Sie uns Ihren Lebenslauf per WhatsApp oder E-Mail."
+        },
+        {
+          "title": "Prüfung der Unterlagen",
+          "desc": "Wir prüfen Ihr Profil und Ihre Qualifikationen."
+        },
+        {
+          "title": "Online-Vorstellungsgespräch",
+          "desc": "Wir organisieren das Gespräch mit dem Arbeitgeber."
+        },
+        {
+          "title": "Vertrag & Visum",
+          "desc": "Nach der Zusage begleiten wir Vertrag und Visumverfahren."
+        },
+        {
+          "title": "Einreise & Integration",
+          "desc": "Abholung, Wohnung, Anmeldung – wir sind vor Ort für Sie da."
+        }
+      ],
+      "employerSteps": [
+        {
+          "title": "Personalanfrage",
+          "desc": "Teilen Sie uns Ihren Bedarf und Ihr Anforderungsprofil mit."
+        },
+        {
+          "title": "Vorauswahl",
+          "desc": "Sie erhalten passende, vorab geprüfte Kandidaten."
+        },
+        {
+          "title": "Online-Interviews",
+          "desc": "Lernen Sie Ihre Kandidaten im Videogespräch kennen."
+        },
+        {
+          "title": "Auswahl & Betreuung",
+          "desc": "Wir begleiten den Prozess bis zum Arbeitsbeginn."
+        }
+      ]
+    },
+    "sectors": {
+      "title": "Beliebte Bereiche",
+      "subtitle": "Wir vermitteln Auszubildende und Fachkräfte in gefragten Branchen.",
+      "cta": "Alle Stellenangebote",
+      "items": [
+        {
+          "name": "Pflege & Gesundheit",
+          "desc": "Kranken- und Altenpflege"
+        },
+        {
+          "name": "Gastronomie",
+          "desc": "Küche & Service"
+        },
+        {
+          "name": "Hotellerie",
+          "desc": "Empfang & Betrieb"
+        },
+        {
+          "name": "Handwerk & Technik",
+          "desc": "Elektro & Mechatronik"
+        },
+        {
+          "name": "Industrie",
+          "desc": "Produktion & Logistik"
+        },
+        {
+          "name": "Weitere Berufe",
+          "desc": "Und viele mehr"
+        }
+      ]
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "subtitle": "Woran wir glauben – in jeder Zusammenarbeit.",
+      "items": [
+        "Vertrauen",
+        "Qualität",
+        "Transparenz",
+        "Respekt",
+        "Engagement"
+      ]
+    },
+    "stories": {
+      "title": "Erfolgsgeschichten",
+      "quote": "Unsere Erfolgsgeschichten beginnen mit Ihnen.",
+      "subtitle": "Vielleicht erzählen wir schon bald Ihre Geschichte. Werden Sie Teil der nächsten Generation von Fachkräften in Deutschland.",
+      "cta": "Jetzt starten"
+    },
+    "cta": {
+      "title": "Gemeinsam Perspektiven schaffen.",
+      "subtitle": "Ob Ausbildung, beruflicher Neustart oder internationale Personalgewinnung – wir bringen Menschen und Chancen zusammen.",
+      "whatsapp": "WhatsApp",
+      "email": "E-Mail",
+      "applicant": "Ich bin Bewerber",
+      "employer": "Ich bin Arbeitgeber"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Leistungen",
+      "description": "Internationale Fachkräfte- und Ausbildungsvermittlung zwischen Marokko und Deutschland – Vermittlung von Auszubildenden und Fachkräften, Personalgewinnung und Kooperation mit Bildungseinrichtungen."
+    },
+    "hero": {
+      "badge": "Unsere Leistungen",
+      "title": "Fachkräfte- und Ausbildungsvermittlung zwischen Marokko und Deutschland",
+      "subtitle": "Wir verbinden motivierte Nachwuchskräfte und qualifizierte Fachkräfte aus Marokko mit deutschen Unternehmen und Ausbildungseinrichtungen. Dabei setzen wir auf eine gezielte Vermittlung, persönliche Betreuung und langfristige berufliche Perspektiven."
+    },
+    "section": {
+      "eyebrow": "Unsere Leistungen",
+      "title": "Internationale Fachkräfte- und Ausbildungsvermittlung zwischen Marokko und Deutschland",
+      "subtitle": "Wir verbinden motivierte Nachwuchskräfte und qualifizierte Fachkräfte aus Marokko mit deutschen Unternehmen und Ausbildungseinrichtungen. Dabei setzen wir auf eine gezielte Vermittlung, persönliche Betreuung und langfristige berufliche Perspektiven.",
+      "cta": "Alle Leistungen ansehen",
+      "items": [
+        {
+          "tag": "Für Bewerber",
+          "title": "Vermittlung von Auszubildenden",
+          "desc": "Wir ermöglichen motivierten jungen Menschen aus Marokko den Zugang zu Ausbildungsplätzen in Deutschland. Dabei berücksichtigen wir ihre schulischen Qualifikationen, Sprachkenntnisse und beruflichen Interessen, um passende Ausbildungsmöglichkeiten in unterschiedlichen Branchen zu vermitteln."
+        },
+        {
+          "tag": "Für Bewerber",
+          "title": "Vermittlung von Fachkräften",
+          "desc": "Wir unterstützen qualifizierte Fachkräfte aus Marokko bei der Suche nach geeigneten Beschäftigungsmöglichkeiten in Deutschland. Durch die Berücksichtigung fachlicher Kompetenzen, beruflicher Erfahrungen und individueller Karriereziele schaffen wir die Grundlage für eine erfolgreiche Vermittlung."
+        },
+        {
+          "tag": "Für Arbeitgeber",
+          "title": "Personalgewinnung für Unternehmen und Einrichtungen",
+          "desc": "Wir unterstützen deutsche Unternehmen und Einrichtungen bei der Gewinnung motivierter Auszubildender und qualifizierter Fachkräfte aus Marokko. Auf Grundlage des individuellen Personalbedarfs identifizieren wir geeignete Kandidatinnen und Kandidaten und stellen passende Bewerberprofile vor."
+        },
+        {
+          "tag": "Für Bildungseinrichtungen",
+          "title": "Kooperation mit Ausbildungs- und Bildungseinrichtungen",
+          "desc": "Wir arbeiten mit Pflegeschulen, Ausbildungszentren und weiteren Bildungseinrichtungen zusammen, um internationale Ausbildungsmöglichkeiten zu fördern. Dabei unterstützen wir die Zusammenarbeit zwischen Bildungsträgern, Ausbildungsbetrieben und geeigneten Bewerberinnen und Bewerbern aus Marokko."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Wir bringen Menschen und Chancen zusammen.",
+    "blurb": "Ausbildungs- und Fachkräftevermittlung zwischen Marokko und Deutschland – persönlich, transparent und langfristig.",
+    "columns": {
+      "explore": "Entdecken",
+      "legal": "Rechtliches",
+      "contact": "Kontakt"
+    },
+    "rights": "Alle Rechte vorbehalten.",
+    "legal": {
+      "privacy": "Datenschutz",
+      "imprint": "Impressum",
+      "terms": "AGB"
+    }
+  },
+  "bewerber": {
+    "meta": {
+      "title": "Für Bewerber",
+      "description": "Starte deine Karriere in Deutschland – ChanceConnect begleitet dich bei Ausbildung, Fachkräftevermittlung, Visum, Einreise und Integration."
+    },
+    "hero": {
+      "badge": "Für Bewerber",
+      "title": "Starte deine Karriere in Deutschland",
+      "subtitle": "Ob Ausbildung oder Fachkraft – wir begleiten dich persönlich von der ersten Bewerbung über das Visum bis zur erfolgreichen Ankunft in Deutschland."
+    },
+    "services": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Alles, was du für den Start in Deutschland brauchst – aus einer Hand.",
+      "items": [
+        {
+          "title": "Ausbildung",
+          "desc": "Wir vermitteln dir einen Ausbildungsplatz bei einem deutschen Unternehmen."
+        },
+        {
+          "title": "Fachkräftevermittlung",
+          "desc": "Als qualifizierte Fachkraft finden wir die passende Stelle für dich."
+        },
+        {
+          "title": "Bewerbungsunterlagen",
+          "desc": "Wir unterstützen dich bei Lebenslauf und allen Unterlagen."
+        },
+        {
+          "title": "Visum & Dokumente",
+          "desc": "Wir begleiten dich durch das Visumverfahren und die Dokumente."
+        },
+        {
+          "title": "Online-Interviews",
+          "desc": "Wir organisieren Vorstellungsgespräche mit deutschen Arbeitgebern."
+        },
+        {
+          "title": "Begleitung bis zur Einreise",
+          "desc": "Wir sind an deiner Seite bis zur Ankunft in Deutschland."
+        }
+      ]
+    },
+    "arrival": {
+      "title": "Unterstützung nach der Ankunft",
+      "subtitle": "Unser Service endet nicht mit deiner Einreise – wir begleiten dich auch in Deutschland.",
+      "items": [
+        "Abholung vom Flughafen",
+        "Unterstützung bei der Wohnungssuche",
+        "Anmeldung beim Einwohnermeldeamt",
+        "Eröffnung eines Bankkontos",
+        "Krankenversicherung",
+        "Steuer-ID",
+        "Behördengänge",
+        "SIM-Karte",
+        "Persönliche Betreuung"
+      ]
+    }
+  },
+  "arbeitgeber": {
+    "meta": {
+      "title": "Für Arbeitgeber",
+      "description": "ChanceConnect unterstützt deutsche Unternehmen bei der Rekrutierung motivierter Auszubildender und Fachkräfte – kostenlos und persönlich begleitet."
+    },
+    "hero": {
+      "badge": "Kostenlos für Arbeitgeber",
+      "title": "Finden Sie motivierte Fachkräfte",
+      "subtitle": "Sie suchen Auszubildende oder qualifizierte Fachkräfte? Wir vermitteln geprüfte Kandidatinnen und Kandidaten aus Marokko – die Vermittlung ist für Arbeitgeber kostenlos."
+    },
+    "services": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Wir übernehmen den gesamten Rekrutierungsprozess – Sie treffen die Wahl.",
+      "items": [
+        {
+          "title": "Vermittlung von Auszubildenden",
+          "desc": "Motivierte Nachwuchskräfte für Ihre Ausbildungsplätze."
+        },
+        {
+          "title": "Vermittlung von Fachkräften",
+          "desc": "Qualifizierte Fachkräfte für Ihren Bedarf."
+        },
+        {
+          "title": "Vorauswahl der Kandidaten",
+          "desc": "Wir prüfen und wählen passende Kandidaten für Sie vor."
+        },
+        {
+          "title": "Online-Vorstellungsgespräche",
+          "desc": "Wir organisieren die Video-Interviews mit den Kandidaten."
+        },
+        {
+          "title": "Dokumentenservice",
+          "desc": "Wir unterstützen bei allen erforderlichen Unterlagen."
+        },
+        {
+          "title": "Persönlicher Ansprechpartner",
+          "desc": "Ein fester Kontakt begleitet Sie durch den gesamten Prozess."
+        },
+        {
+          "title": "Langfristige Zusammenarbeit",
+          "desc": "Wir setzen auf nachhaltige Partnerschaften."
+        }
+      ]
+    },
+    "process": {
+      "title": "So funktioniert es",
+      "subtitle": "In sechs Schritten zu Ihrer neuen Fachkraft.",
+      "steps": [
+        {
+          "title": "Personalanfrage senden",
+          "desc": "Teilen Sie uns Ihren Bedarf mit."
+        },
+        {
+          "title": "Anforderungsprofil besprechen",
+          "desc": "Wir definieren gemeinsam das passende Profil."
+        },
+        {
+          "title": "Passende Bewerber erhalten",
+          "desc": "Sie erhalten vorausgewählte Kandidaten."
+        },
+        {
+          "title": "Online-Vorstellungsgespräche",
+          "desc": "Lernen Sie Ihre Kandidaten kennen."
+        },
+        {
+          "title": "Auswahl treffen",
+          "desc": "Sie entscheiden, wen Sie einstellen."
+        },
+        {
+          "title": "Betreuung bis zum Arbeitsbeginn",
+          "desc": "Wir begleiten den Prozess bis zum ersten Arbeitstag."
+        }
+      ]
+    },
+    "why": {
+      "title": "Warum Talente aus Marokko?",
+      "subtitle": "Motivierte Kandidaten überzeugen durch echte Stärken.",
+      "items": [
+        {
+          "title": "Motivation",
+          "desc": "Hohe Eigenmotivation und Einsatzbereitschaft."
+        },
+        {
+          "title": "Lernbereitschaft",
+          "desc": "Offen für Neues und schnelle Einarbeitung."
+        },
+        {
+          "title": "Gute Ausbildung",
+          "desc": "Solide fachliche Grundlagen."
+        },
+        {
+          "title": "Zuverlässigkeit",
+          "desc": "Verantwortungsbewusst und verlässlich."
+        },
+        {
+          "title": "Langfristiges Interesse",
+          "desc": "Ernsthaftes Interesse an einer Karriere in Deutschland."
+        }
+      ]
+    }
+  },
+  "jobs": {
+    "meta": {
+      "title": "Stellenangebote",
+      "description": "Aktuelle Berufsfelder für Ausbildung und Fachkräfte in Deutschland – vermittelt durch ChanceConnect."
+    },
+    "hero": {
+      "badge": "Stellenangebote",
+      "title": "Gefragte Berufe in Deutschland",
+      "subtitle": "Wir vermitteln in Bereichen mit hohem Bedarf – finden Sie Ihr Feld und starten Sie Ihre Bewerbung."
+    },
+    "roles": {
+      "title": "Beliebte Berufsfelder",
+      "subtitle": "Ausbildung und Fachkräftestellen in gefragten Branchen.",
+      "items": [
+        {
+          "title": "Pflege & Gesundheit",
+          "desc": "Kranken- und Altenpflege, medizinische Fachberufe."
+        },
+        {
+          "title": "Gastronomie",
+          "desc": "Köche, Servicekräfte, Küchenhilfen."
+        },
+        {
+          "title": "Hotellerie",
+          "desc": "Empfang, Housekeeping, Hotelbetrieb."
+        },
+        {
+          "title": "Handwerk & Technik",
+          "desc": "Elektriker, Mechatroniker, Anlagenbau."
+        },
+        {
+          "title": "Industrie",
+          "desc": "Produktion, Logistik, Lagerlogistik."
+        },
+        {
+          "title": "Weitere Berufe",
+          "desc": "Viele weitere Ausbildungs- und Fachkraftstellen."
+        }
+      ]
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Über uns",
+      "description": "ChanceConnect ist spezialisiert auf die Vermittlung von Auszubildenden und Fachkräften an Unternehmen in Deutschland – persönlich, transparent und international."
+    },
+    "hero": {
+      "badge": "Über uns",
+      "title": "Chancen schaffen, Zukunft gestalten",
+      "subtitle": "ChanceConnect verbindet Talente aus Marokko mit Unternehmen und Ausbildungseinrichtungen in Deutschland – professionell begleitet von der ersten Bewerbung bis zur erfolgreichen Integration."
+    },
+    "intro": {
+      "title": "Wer wir sind",
+      "paragraphs": [
+        "ChanceConnect ist spezialisiert auf die Vermittlung von Auszubildenden und Fachkräften aus Marokko an Unternehmen und Ausbildungseinrichtungen in Deutschland.",
+        "Wir begleiten Bewerber und Arbeitgeber professionell – von der ersten Bewerbung über das Visum bis zur erfolgreichen Integration. Unser Ziel ist es, Chancen zu schaffen und langfristige Partnerschaften aufzubauen."
+      ]
+    },
+    "pillars": {
+      "title": "Wofür wir stehen",
+      "subtitle": "Drei Grundsätze prägen unsere Arbeit.",
+      "items": [
+        {
+          "title": "Persönlich",
+          "desc": "Ein fester Ansprechpartner auf jedem Schritt des Weges."
+        },
+        {
+          "title": "Transparent",
+          "desc": "Klare Prozesse und ehrliche Kommunikation."
+        },
+        {
+          "title": "International",
+          "desc": "Talente aus Marokko, Chancen in ganz Deutschland."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "meta": {
+      "title": "FAQ",
+      "description": "Häufige Fragen zu Bewerbung, Vermittlung, Visum und Unterstützung – ChanceConnect beantwortet die wichtigsten Fragen."
+    },
+    "hero": {
+      "badge": "FAQ",
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Antworten auf die wichtigsten Fragen von Bewerbern und Arbeitgebern."
+    },
+    "title": "Fragen & Antworten",
+    "subtitle": "Ihre Frage ist nicht dabei? Kontaktieren Sie uns gern direkt.",
+    "items": [
+      {
+        "q": "Aus welchen Ländern vermitteln Sie Bewerber?",
+        "a": "Unser Schwerpunkt liegt auf Marokko. Wir vermitteln motivierte Nachwuchs- und Fachkräfte aus Marokko an Unternehmen und Ausbildungseinrichtungen in ganz Deutschland."
+      },
+      {
+        "q": "Kostet die Vermittlung für Arbeitgeber etwas?",
+        "a": "Nein. Unsere Personalvermittlung ist für Arbeitgeber kostenlos."
+      },
+      {
+        "q": "Wie kann ich mich als Bewerber bewerben?",
+        "a": "Ganz einfach per WhatsApp oder E-Mail. Senden Sie uns Ihren Lebenslauf und wir melden uns bei Ihnen."
+      },
+      {
+        "q": "Finden die Vorstellungsgespräche online statt?",
+        "a": "Ja. Wir organisieren Online-Vorstellungsgespräche zwischen Bewerbern und Arbeitgebern."
+      },
+      {
+        "q": "Unterstützen Sie auch nach der Ankunft in Deutschland?",
+        "a": "Ja. Wir begleiten unter anderem bei Flughafenabholung, Wohnungssuche, Anmeldung, Bankkonto, Krankenversicherung und Behördengängen."
+      },
+      {
+        "q": "In welchen Sprachen bieten Sie Ihren Service an?",
+        "a": "Wir kommunizieren auf Deutsch, Englisch, Französisch und Arabisch."
+      },
+      {
+        "q": "In welchen Bereichen vermitteln Sie?",
+        "a": "Unter anderem in Pflege & Gesundheit, Gastronomie, Hotellerie, Handwerk & Technik und Industrie."
+      },
+      {
+        "q": "Arbeiten Sie mit Bildungseinrichtungen zusammen?",
+        "a": "Ja. Wir kooperieren mit Pflegeschulen, Ausbildungszentren und weiteren Bildungseinrichtungen und unterstützen die Zusammenarbeit mit Ausbildungsbetrieben und geeigneten Bewerberinnen und Bewerbern aus Marokko."
+      }
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontakt",
+      "description": "Kontaktieren Sie ChanceConnect per WhatsApp, E-Mail oder über unser Kontaktformular. Wir freuen uns auf Ihre Nachricht."
+    },
+    "hero": {
+      "badge": "Kontakt",
+      "title": "Sprechen wir miteinander",
+      "subtitle": "Ob Bewerber oder Arbeitgeber – wählen Sie den Weg, der Ihnen am liebsten ist."
+    },
+    "methods": {
+      "title": "So erreichen Sie uns",
+      "whatsapp": "WhatsApp",
+      "whatsappDesc": "Schnelle Antwort per Chat",
+      "email": "E-Mail",
+      "emailDesc": "info@chanceconnect.de",
+      "languages": "Wir sprechen Ihre Sprache",
+      "languagesDesc": "Deutsch · Englisch · Französisch · Arabisch"
+    },
+    "form": {
+      "title": "Nachricht senden",
+      "subtitle": "Füllen Sie das Formular aus – wir melden uns zeitnah.",
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "role": "Ich bin",
+      "roleApplicant": "Bewerber",
+      "roleEmployer": "Arbeitgeber",
+      "roleOther": "Sonstiges",
+      "domain": "Fachbereich (optional)",
+      "companyName": "Firmenname",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht senden",
+      "sending": "Wird gesendet …",
+      "success": "Vielen Dank! Ihre Nachricht wurde gesendet – wir melden uns zeitnah.",
+      "error": "Leider ist etwas schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt an info@chanceconnect.de.",
+      "note": "Ihre Nachricht geht direkt an unser Team – wir antworten in der Regel innerhalb von 24 Stunden."
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Datenschutz",
+      "description": "Datenschutzerklärung von ChanceConnect gemäß DSGVO."
+    },
+    "hero": {
+      "badge": "Rechtliches",
+      "title": "Datenschutzerklärung",
+      "subtitle": "Informationen zur Verarbeitung Ihrer personenbezogenen Daten gemäß DSGVO."
+    },
+    "updated": "Stand: 19. Oktober 2026",
+    "disclaimer": "Dies ist eine Vorlage. Bitte passen Sie die Angaben an Ihre tatsächliche Datenverarbeitung an und lassen Sie die Erklärung rechtlich prüfen.",
+    "sections": [
+      {
+        "heading": "1. Verantwortlicher",
+        "body": [
+          "Verantwortlich für die Datenverarbeitung auf dieser Website ist:",
+          "Falconidae, Inhaber Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund, E-Mail: info@chanceconnect.de"
+        ]
+      },
+      {
+        "heading": "2. Erhebung personenbezogener Daten",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten, die Sie uns über das Kontaktformular, per E-Mail oder WhatsApp mitteilen – etwa Name, Kontaktdaten und Bewerbungsunterlagen."
+        ]
+      },
+      {
+        "heading": "3. Zweck und Rechtsgrundlage",
+        "body": [
+          "Die Verarbeitung erfolgt zur Bearbeitung Ihrer Anfrage sowie zur Vermittlung auf Grundlage von Art. 6 Abs. 1 lit. b und f DSGVO."
+        ]
+      },
+      {
+        "heading": "4. Weitergabe von Daten",
+        "body": [
+          "Eine Weitergabe Ihrer Daten an potenzielle Arbeitgeber erfolgt ausschließlich mit Ihrer Einwilligung."
+        ]
+      },
+      {
+        "heading": "5. Speicherdauer",
+        "body": [
+          "Wir speichern Ihre Daten nur so lange, wie es für die genannten Zwecke erforderlich ist oder gesetzliche Aufbewahrungsfristen bestehen."
+        ]
+      },
+      {
+        "heading": "6. Ihre Rechte",
+        "body": [
+          "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie ein Beschwerderecht bei einer Aufsichtsbehörde."
+        ]
+      },
+      {
+        "heading": "7. Cookies",
+        "body": [
+          "Diese Website verwendet ausschließlich technisch notwendige Cookies. [Bei Einsatz weiterer Cookies oder Analyse-Tools bitte ergänzen.]"
+        ]
+      },
+      {
+        "heading": "8. Kontakt zum Datenschutz",
+        "body": [
+          "Bei Fragen zum Datenschutz erreichen Sie uns unter info@chanceconnect.de."
+        ]
+      }
+    ]
+  },
+  "imprint": {
+    "meta": {
+      "title": "Impressum",
+      "description": "Impressum und Anbieterkennzeichnung von ChanceConnect gemäß § 5 TMG."
+    },
+    "hero": {
+      "badge": "Rechtliches",
+      "title": "Impressum",
+      "subtitle": "Angaben gemäß § 5 TMG."
+    },
+    "updated": "Stand: 19. Oktober 2026",
+    "disclaimer": "Dies ist eine Vorlage. Bitte ergänzen Sie Ihre tatsächlichen Angaben und lassen Sie das Impressum rechtlich prüfen.",
+    "sections": [
+      {
+        "heading": "Angaben gemäß § 5 TMG",
+        "body": [
+          "Falconidae",
+          "Inhaber: Nabil Ayadi",
+          "Alter Heideweg 23",
+          "44339 Dortmund, Deutschland"
+        ]
+      },
+      {
+        "heading": "Vertreten durch",
+        "body": [
+          "Nabil Ayadi"
+        ]
+      },
+      {
+        "heading": "Kontakt",
+        "body": [
+          "Ansprechpartner: Nabil Ayadi",
+          "E-Mail: info@chanceconnect.de"
+        ]
+      },
+      {
+        "heading": "Umsatzsteuer-ID",
+        "body": [
+          "Umsatzsteuer-Identifikationsnummer gemäß § 27 a UStG: DE 332476902"
+        ]
+      },
+      {
+        "heading": "Haftung für Inhalte und Links",
+        "body": [
+          "Die Inhalte dieser Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität übernehmen wir jedoch keine Gewähr. Für Inhalte externer Links sind ausschließlich deren Betreiber verantwortlich."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "AGB",
+      "description": "Allgemeine Geschäftsbedingungen von ChanceConnect für die Vermittlung von Auszubildenden und Fachkräften."
+    },
+    "hero": {
+      "badge": "Rechtliches",
+      "title": "Allgemeine Geschäftsbedingungen",
+      "subtitle": "Die Bedingungen für die Nutzung unserer Vermittlungsleistungen für Bewerber und Arbeitgeber."
+    },
+    "updated": "Stand: 19. Oktober 2026",
+    "disclaimer": "Dies ist eine Vorlage. Bitte passen Sie die Bedingungen an Ihr tatsächliches Leistungsangebot an und lassen Sie die AGB rechtlich prüfen.",
+    "sections": [
+      {
+        "heading": "1. Geltungsbereich",
+        "body": [
+          "Betreiber der Marke ChanceConnect ist die Falconidae, Inhaber Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund.",
+          "Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Leistungen der ChanceConnect (nachfolgend „wir“ oder „ChanceConnect“) gegenüber Bewerbern und Arbeitgebern (nachfolgend „Nutzer“).",
+          "Abweichende Bedingungen des Nutzers werden nur wirksam, wenn wir ihnen ausdrücklich schriftlich zustimmen."
+        ]
+      },
+      {
+        "heading": "2. Gegenstand der Leistungen",
+        "body": [
+          "ChanceConnect vermittelt internationale Auszubildende und Fachkräfte an Unternehmen in Deutschland und begleitet den gesamten Prozess von der Bewerbung über das Visumverfahren bis zur Ankunft und Integration.",
+          "Der konkrete Leistungsumfang ergibt sich aus der jeweiligen Vereinbarung sowie den Beschreibungen auf dieser Website."
+        ]
+      },
+      {
+        "heading": "3. Zustandekommen des Vertrags",
+        "body": [
+          "Die Darstellung unserer Leistungen auf der Website stellt kein bindendes Angebot dar. Ein Vertrag kommt erst zustande, wenn wir eine Anfrage ausdrücklich annehmen oder mit der Erbringung der Leistung beginnen."
+        ]
+      },
+      {
+        "heading": "4. Mitwirkungspflichten des Nutzers",
+        "body": [
+          "Der Nutzer stellt uns alle für die Vermittlung erforderlichen Angaben und Unterlagen vollständig und wahrheitsgemäß zur Verfügung und hält diese aktuell.",
+          "Für die Richtigkeit der übermittelten Daten, Zeugnisse und Qualifikationsnachweise ist der Nutzer verantwortlich."
+        ]
+      },
+      {
+        "heading": "5. Vergütung",
+        "body": [
+          "Für Bewerber ist die Vermittlung kostenlos. Für Arbeitgeber richtet sich eine etwaige Vergütung nach der individuellen Vereinbarung.",
+          "Sofern nichts anderes vereinbart ist, entstehen dem Nutzer durch die Nutzung dieser Website keine Kosten."
+        ]
+      },
+      {
+        "heading": "6. Keine Vermittlungsgarantie",
+        "body": [
+          "Wir erbringen unsere Leistungen mit größter Sorgfalt, schulden jedoch keinen bestimmten Erfolg. Ein Anspruch auf das Zustandekommen eines Ausbildungs- oder Arbeitsverhältnisses oder auf die Erteilung eines Visums besteht nicht.",
+          "Entscheidungen der Arbeitgeber sowie der Behörden liegen außerhalb unseres Einflussbereichs."
+        ]
+      },
+      {
+        "heading": "7. Haftung",
+        "body": [
+          "Wir haften unbeschränkt für Vorsatz und grobe Fahrlässigkeit sowie für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit.",
+          "Bei einfacher Fahrlässigkeit haften wir nur bei Verletzung einer wesentlichen Vertragspflicht und begrenzt auf den vertragstypischen, vorhersehbaren Schaden."
+        ]
+      },
+      {
+        "heading": "8. Datenschutz",
+        "body": [
+          "Die Verarbeitung personenbezogener Daten erfolgt gemäß unserer Datenschutzerklärung."
+        ]
+      },
+      {
+        "heading": "9. Widerrufsrecht",
+        "body": [
+          "Verbrauchern steht ein gesetzliches Widerrufsrecht zu. Einzelheiten hierzu teilen wir vor Vertragsschluss gesondert in einer Widerrufsbelehrung mit."
+        ]
+      },
+      {
+        "heading": "10. Schlussbestimmungen",
+        "body": [
+          "Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.",
+          "Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+@import "tailwindcss";
+
+@theme {
+  /* ===================================================================
+     Brand palette — "Modern & Trustworthy": teal + mint + warm white
+     =================================================================== */
+  --color-deep: #124e52; /* Deep Teal — headings, primary actions */
+  --color-deep-dark: #0c3a3d; /* hover / pressed */
+  --color-teal: #1d7874; /* Teal — links, icons, accents */
+  --color-mint: #72c6b1; /* Mint — highlights, decoration */
+  --color-mint-soft: #e9f6f1; /* Soft Mint — tinted sections and chips */
+  --color-paper: #fafbf8; /* Off White — page background */
+  --color-gold: #d6a23a; /* tassel gold from the logo — tiny accents only */
+
+  --color-ink: #12302f; /* strongest text */
+  --color-muted: #536b69; /* body copy — AA on paper and soft mint */
+  --color-line: #dbe9e3; /* hairlines on light surfaces */
+
+  /* ===================================================================
+     Typography
+     =================================================================== */
+  --font-sans: var(--ff-sans), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-arabic: var(--ff-arabic), "Segoe UI", Tahoma, sans-serif;
+
+  --text-hero: clamp(2.5rem, 5.4vw, 4.4rem);
+  --text-display: clamp(1.9rem, 3.6vw, 2.9rem);
+
+  /* ===================================================================
+     Depth & motion
+     =================================================================== */
+  --shadow-card: 0 1px 2px rgb(18 78 82 / 0.05), 0 12px 32px -14px rgb(18 78 82 / 0.18);
+  --shadow-lift: 0 2px 4px rgb(18 78 82 / 0.06), 0 26px 50px -20px rgb(18 78 82 / 0.32);
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --animate-fade-up: fade-up 0.8s var(--ease-out-expo) both;
+  --animate-float: float 7s ease-in-out infinite;
+  --animate-ping-soft: ping-soft 2.4s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* ===================================================================
+   Keyframes
+   =================================================================== */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+@keyframes ping-soft {
+  75%,
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+/* ===================================================================
+   Base
+   =================================================================== */
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--color-mint) 45%, transparent);
+    color: var(--color-deep);
+  }
+}
+
+/* Arabic / RTL: swap to the Arabic face; never track connected script. */
+[lang="ar"] body {
+  font-family: var(--font-arabic);
+}
+[lang="ar"] * {
+  letter-spacing: 0;
+}
+
+/* ===================================================================
+   Utilities
+   =================================================================== */
+
+/* Marker-style mint underline for an accent word in a headline. */
+.highlight {
+  background-image: linear-gradient(
+    transparent 64%,
+    color-mix(in srgb, var(--color-mint) 45%, transparent) 64%,
+    color-mix(in srgb, var(--color-mint) 45%, transparent) 92%,
+    transparent 92%
+  );
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* Fine dot grid used as a quiet decorative texture. */
+.dots {
+  background-image: radial-gradient(currentColor 1.2px, transparent 1.2px);
+  background-size: 22px 22px;
+}
+
+@utility container-site {
+  width: 100%;
+  margin-inline: auto;
+  max-width: 76rem; /* 1216px */
+  padding-inline: 1.25rem;
+  @media (width >= 640px) {
+    padding-inline: 2rem;
+  }
+  @media (width >= 1024px) {
+    padding-inline: 2.5rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

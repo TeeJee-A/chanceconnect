@@ -1,0 +1,790 @@
+{
+  "meta": {
+    "title": "ChanceConnect — Placement d'apprentis et de professionnels Maroc – Allemagne",
+    "description": "ChanceConnect met en relation des jeunes talents motivés et des professionnels qualifiés du Maroc avec des entreprises et des établissements de formation en Allemagne — un accompagnement personnalisé de la candidature à l'intégration."
+  },
+  "nav": {
+    "home": "Accueil",
+    "applicants": "Pour les candidats",
+    "employers": "Pour les employeurs",
+    "jobs": "Offres d'emploi",
+    "about": "À propos",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "menu": "Menu",
+    "language": "Langue",
+    "services": "Services"
+  },
+  "common": {
+    "applyNow": "Postuler",
+    "requestStaff": "Demander du personnel",
+    "learnMore": "En savoir plus",
+    "iAmApplicant": "Je suis candidat",
+    "iAmEmployer": "Je suis employeur",
+    "getInTouch": "Nous contacter",
+    "comingSoon": "Bientôt disponible",
+    "backHome": "Retour à l'accueil",
+    "skipToContent": "Aller au contenu",
+    "close": "Fermer"
+  },
+  "home": {
+    "hero": {
+      "badge": "Placement d'apprentis et de professionnels Maroc – Allemagne",
+      "titleLead": "Votre carrière en Allemagne",
+      "titleAccent": "commence ici.",
+      "subtitle": "Nous mettons en relation des jeunes talents motivés et des professionnels qualifiés du Maroc avec des entreprises et des établissements de formation en Allemagne — un accompagnement personnalisé, de la première candidature à une intégration réussie.",
+      "stats": {
+        "satisfaction": "Satisfaction",
+        "languages": "Langues proposées",
+        "support": "Accompagnement jusqu'à l'intégration"
+      },
+      "journey": {
+        "title": "Votre chemin vers l'Allemagne",
+        "chip": "Accompagnement personnalisé",
+        "from": "Maroc",
+        "to": "Allemagne",
+        "steps": [
+          "Candidature & CV",
+          "Entretien en ligne",
+          "Contrat & visa",
+          "Arrivée & intégration"
+        ],
+        "status": {
+          "done": "Terminé",
+          "current": "En cours",
+          "next": "À venir"
+        },
+        "employerFree": "Gratuit pour les employeurs",
+        "languages": "Service en 4 langues"
+      }
+    },
+    "audience": {
+      "title": "Choisissez votre voie",
+      "subtitle": "Deux voies, un objectif : la bonne connexion entre talent et entreprise.",
+      "applicant": {
+        "label": "Pour les candidats",
+        "title": "Lancez votre carrière en Allemagne",
+        "desc": "Apprentissage ou emploi qualifié — nous vous accompagnons pour la candidature, le visa, l'entrée et l'arrivée.",
+        "cta": "Pour les candidats",
+        "points": [
+          "Apprentissage & placement qualifié",
+          "Service visa & documents",
+          "Accompagnement jusqu'en Allemagne"
+        ]
+      },
+      "employer": {
+        "label": "Pour les employeurs",
+        "title": "Trouvez des professionnels motivés",
+        "desc": "Nous plaçons des apprentis et du personnel qualifié vérifiés — gratuit pour les employeurs.",
+        "cta": "Pour les employeurs",
+        "points": [
+          "Candidats présélectionnés",
+          "Entretiens en ligne",
+          "Placement gratuit"
+        ]
+      }
+    },
+    "whyUs": {
+      "title": "Pourquoi ChanceConnect ?",
+      "subtitle": "Un partenaire qui comprend les deux côtés — et vous accompagne à chaque étape.",
+      "items": [
+        {
+          "title": "Accompagnement personnel",
+          "desc": "Un interlocuteur dédié vous suit de la première demande au premier jour de travail."
+        },
+        {
+          "title": "Placement international",
+          "desc": "Nous relions des talents du Maroc à des entreprises et établissements partout en Allemagne."
+        },
+        {
+          "title": "Processus numérique",
+          "desc": "Candidature, examen et entretiens — entièrement en ligne et transparents."
+        },
+        {
+          "title": "Placement sur mesure",
+          "desc": "Nous sélectionnons les candidats avec soin pour que le profil corresponde au poste."
+        },
+        {
+          "title": "Jusqu'à l'intégration",
+          "desc": "Notre soutien ne s'arrête pas à l'entrée, mais à une arrivée réussie."
+        },
+        {
+          "title": "Service multilingue",
+          "desc": "Nous communiquons en allemand, anglais, français et arabe."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Comment ça marche",
+      "subtitle": "Deux parcours clairs — un accompagnement personnalisé.",
+      "applicantTitle": "Pour les candidats",
+      "employerTitle": "Pour les employeurs",
+      "applicantSteps": [
+        {
+          "title": "Contact & CV",
+          "desc": "Envoyez-nous votre CV par WhatsApp ou e-mail."
+        },
+        {
+          "title": "Examen du dossier",
+          "desc": "Nous examinons votre profil et vos qualifications."
+        },
+        {
+          "title": "Entretien en ligne",
+          "desc": "Nous organisons l'entretien avec l'employeur."
+        },
+        {
+          "title": "Contrat & visa",
+          "desc": "Après l'accord, nous accompagnons le contrat et le visa."
+        },
+        {
+          "title": "Arrivée & intégration",
+          "desc": "Accueil, logement, inscription — nous sommes présents sur place."
+        }
+      ],
+      "employerSteps": [
+        {
+          "title": "Demande de personnel",
+          "desc": "Indiquez-nous vos besoins et votre profil recherché."
+        },
+        {
+          "title": "Présélection",
+          "desc": "Vous recevez des candidats adaptés et vérifiés."
+        },
+        {
+          "title": "Entretiens en ligne",
+          "desc": "Rencontrez vos candidats en visioconférence."
+        },
+        {
+          "title": "Sélection & suivi",
+          "desc": "Nous accompagnons le processus jusqu'au premier jour."
+        }
+      ]
+    },
+    "sectors": {
+      "title": "Domaines populaires",
+      "subtitle": "Nous plaçons apprentis et personnel qualifié dans des secteurs recherchés.",
+      "cta": "Toutes les offres",
+      "items": [
+        {
+          "name": "Santé & Soins",
+          "desc": "Soins infirmiers & aux aînés"
+        },
+        {
+          "name": "Gastronomie",
+          "desc": "Cuisine & service"
+        },
+        {
+          "name": "Hôtellerie",
+          "desc": "Accueil & exploitation"
+        },
+        {
+          "name": "Artisanat & Technique",
+          "desc": "Électricité & mécatronique"
+        },
+        {
+          "name": "Industrie",
+          "desc": "Production & logistique"
+        },
+        {
+          "name": "Autres métiers",
+          "desc": "Et bien plus encore"
+        }
+      ]
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "subtitle": "Ce en quoi nous croyons — dans chaque collaboration.",
+      "items": [
+        "Confiance",
+        "Qualité",
+        "Transparence",
+        "Respect",
+        "Engagement"
+      ]
+    },
+    "stories": {
+      "title": "Témoignages de réussite",
+      "quote": "Nos réussites commencent avec vous.",
+      "subtitle": "Peut-être raconterons-nous bientôt votre histoire. Rejoignez la prochaine génération de professionnels en Allemagne.",
+      "cta": "Commencer"
+    },
+    "cta": {
+      "title": "Créer des perspectives ensemble.",
+      "subtitle": "Formation, nouveau départ professionnel ou recrutement international — nous rapprochons les personnes et les opportunités.",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail",
+      "applicant": "Je suis candidat",
+      "employer": "Je suis employeur"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Services",
+      "description": "Recrutement international de professionnels et d'apprentis entre le Maroc et l'Allemagne — placement d'apprentis et de professionnels, recrutement et coopération avec les établissements de formation."
+    },
+    "hero": {
+      "badge": "Nos services",
+      "title": "Placement de professionnels et d'apprentis entre le Maroc et l'Allemagne",
+      "subtitle": "Nous mettons en relation des jeunes talents motivés et des professionnels qualifiés du Maroc avec des entreprises et des établissements de formation allemands. Nous misons sur un placement ciblé, un accompagnement personnalisé et des perspectives professionnelles durables."
+    },
+    "section": {
+      "eyebrow": "Nos services",
+      "title": "Recrutement international de professionnels et d'apprentis entre le Maroc et l'Allemagne",
+      "subtitle": "Nous mettons en relation des jeunes talents motivés et des professionnels qualifiés du Maroc avec des entreprises et des établissements de formation allemands. Nous misons sur un placement ciblé, un accompagnement personnalisé et des perspectives professionnelles durables.",
+      "cta": "Voir tous nos services",
+      "items": [
+        {
+          "tag": "Pour les candidats",
+          "title": "Placement d'apprentis",
+          "desc": "Nous permettons à des jeunes Marocains motivés d'accéder à des places de formation professionnelle (Ausbildung) en Allemagne. Nous tenons compte de leurs diplômes, de leurs compétences linguistiques et de leurs intérêts professionnels afin de leur proposer des formations adaptées dans différents secteurs."
+        },
+        {
+          "tag": "Pour les candidats",
+          "title": "Placement de professionnels qualifiés",
+          "desc": "Nous accompagnons des professionnels qualifiés du Maroc dans leur recherche d'un emploi adapté en Allemagne. En prenant en compte leurs compétences, leur expérience et leurs objectifs de carrière, nous posons les bases d'un placement réussi."
+        },
+        {
+          "tag": "Pour les employeurs",
+          "title": "Recrutement pour entreprises et établissements",
+          "desc": "Nous aidons les entreprises et établissements allemands à recruter des apprentis motivés et des professionnels qualifiés du Maroc. Sur la base de vos besoins en personnel, nous identifions des candidates et candidats adaptés et vous présentons des profils pertinents."
+        },
+        {
+          "tag": "Pour les établissements de formation",
+          "title": "Coopération avec les établissements de formation",
+          "desc": "Nous collaborons avec des écoles de soins infirmiers, des centres de formation et d'autres établissements d'enseignement afin de promouvoir les formations internationales, en facilitant la coopération entre organismes de formation, entreprises formatrices et candidats marocains adaptés."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Nous rapprochons les personnes et les opportunités.",
+    "blurb": "Placement d'apprentis et de professionnels entre le Maroc et l'Allemagne — personnel, transparent et durable.",
+    "columns": {
+      "explore": "Explorer",
+      "legal": "Légal",
+      "contact": "Contact"
+    },
+    "rights": "Tous droits réservés.",
+    "legal": {
+      "privacy": "Confidentialité",
+      "imprint": "Mentions légales",
+      "terms": "CGU"
+    }
+  },
+  "bewerber": {
+    "meta": {
+      "title": "Pour les candidats",
+      "description": "Lancez votre carrière en Allemagne — ChanceConnect vous accompagne pour l'apprentissage, le placement qualifié, le visa, l'entrée et l'intégration."
+    },
+    "hero": {
+      "badge": "Pour les candidats",
+      "title": "Lancez votre carrière en Allemagne",
+      "subtitle": "Apprentissage ou emploi qualifié — nous vous accompagnons personnellement, de la première candidature au visa jusqu'à une arrivée réussie en Allemagne."
+    },
+    "services": {
+      "title": "Nos services",
+      "subtitle": "Tout ce dont vous avez besoin pour débuter en Allemagne — avec un seul partenaire.",
+      "items": [
+        {
+          "title": "Apprentissage",
+          "desc": "Nous vous plaçons en apprentissage dans une entreprise allemande."
+        },
+        {
+          "title": "Placement qualifié",
+          "desc": "En tant que professionnel qualifié, nous trouvons le poste qui vous convient."
+        },
+        {
+          "title": "Dossier de candidature",
+          "desc": "Nous vous aidons pour le CV et tous les documents."
+        },
+        {
+          "title": "Visa & documents",
+          "desc": "Nous vous accompagnons dans la procédure de visa et les documents."
+        },
+        {
+          "title": "Entretiens en ligne",
+          "desc": "Nous organisons les entretiens avec des employeurs allemands."
+        },
+        {
+          "title": "Accompagnement jusqu'à l'entrée",
+          "desc": "Nous sommes à vos côtés jusqu'à votre arrivée en Allemagne."
+        }
+      ]
+    },
+    "arrival": {
+      "title": "Accompagnement après l'arrivée",
+      "subtitle": "Notre service ne s'arrête pas à votre entrée — nous vous accompagnons aussi en Allemagne.",
+      "items": [
+        "Accueil à l'aéroport",
+        "Aide à la recherche de logement",
+        "Déclaration de domicile",
+        "Ouverture d'un compte bancaire",
+        "Assurance maladie",
+        "Numéro d'identification fiscale",
+        "Démarches administratives",
+        "Carte SIM",
+        "Accompagnement personnel"
+      ]
+    }
+  },
+  "arbeitgeber": {
+    "meta": {
+      "title": "Pour les employeurs",
+      "description": "ChanceConnect aide les entreprises allemandes à recruter des apprentis et du personnel qualifié motivés — gratuitement et avec un accompagnement personnalisé."
+    },
+    "hero": {
+      "badge": "Gratuit pour les employeurs",
+      "title": "Trouvez des professionnels motivés",
+      "subtitle": "Vous cherchez des apprentis ou des professionnels qualifiés ? Nous plaçons des candidats vérifiés du Maroc — le placement est gratuit pour les employeurs."
+    },
+    "services": {
+      "title": "Nos services",
+      "subtitle": "Nous gérons tout le processus de recrutement — vous faites le choix.",
+      "items": [
+        {
+          "title": "Placement d'apprentis",
+          "desc": "De jeunes talents motivés pour vos postes d'apprentissage."
+        },
+        {
+          "title": "Placement de personnel qualifié",
+          "desc": "Des professionnels qualifiés selon vos besoins."
+        },
+        {
+          "title": "Présélection des candidats",
+          "desc": "Nous vérifions et présélectionnons les candidats pour vous."
+        },
+        {
+          "title": "Entretiens en ligne",
+          "desc": "Nous organisons les entretiens vidéo avec les candidats."
+        },
+        {
+          "title": "Service documents",
+          "desc": "Nous aidons pour tous les documents nécessaires."
+        },
+        {
+          "title": "Interlocuteur dédié",
+          "desc": "Un contact fixe vous accompagne tout au long du processus."
+        },
+        {
+          "title": "Partenariat durable",
+          "desc": "Nous misons sur des collaborations durables."
+        }
+      ]
+    },
+    "process": {
+      "title": "Comment ça marche",
+      "subtitle": "Six étapes vers votre nouvelle recrue.",
+      "steps": [
+        {
+          "title": "Envoyer une demande",
+          "desc": "Indiquez-nous vos besoins."
+        },
+        {
+          "title": "Définir le profil",
+          "desc": "Nous définissons ensemble le bon profil."
+        },
+        {
+          "title": "Recevoir des candidats",
+          "desc": "Vous recevez des candidats présélectionnés."
+        },
+        {
+          "title": "Entretiens en ligne",
+          "desc": "Rencontrez vos candidats."
+        },
+        {
+          "title": "Faire votre choix",
+          "desc": "Vous décidez qui recruter."
+        },
+        {
+          "title": "Suivi jusqu'au début",
+          "desc": "Nous accompagnons jusqu'au premier jour."
+        }
+      ]
+    },
+    "why": {
+      "title": "Pourquoi des talents du Maroc ?",
+      "subtitle": "Des candidats motivés se distinguent par de vraies qualités.",
+      "items": [
+        {
+          "title": "Motivation",
+          "desc": "Forte motivation et engagement."
+        },
+        {
+          "title": "Envie d'apprendre",
+          "desc": "Ouverts à la nouveauté et rapides à s'intégrer."
+        },
+        {
+          "title": "Bonne formation",
+          "desc": "Des bases professionnelles solides."
+        },
+        {
+          "title": "Fiabilité",
+          "desc": "Responsables et fiables."
+        },
+        {
+          "title": "Intérêt durable",
+          "desc": "Un réel intérêt pour une carrière en Allemagne."
+        }
+      ]
+    }
+  },
+  "jobs": {
+    "meta": {
+      "title": "Offres d'emploi",
+      "description": "Domaines actuels pour l'apprentissage et le travail qualifié en Allemagne — proposés par ChanceConnect."
+    },
+    "hero": {
+      "badge": "Offres d'emploi",
+      "title": "Métiers recherchés en Allemagne",
+      "subtitle": "Nous plaçons dans des domaines à forte demande — trouvez le vôtre et lancez votre candidature."
+    },
+    "roles": {
+      "title": "Domaines populaires",
+      "subtitle": "Apprentissages et postes qualifiés dans des secteurs recherchés.",
+      "items": [
+        {
+          "title": "Santé & Soins",
+          "desc": "Soins infirmiers, aux aînés, métiers médicaux."
+        },
+        {
+          "title": "Gastronomie",
+          "desc": "Cuisiniers, personnel de service, aides de cuisine."
+        },
+        {
+          "title": "Hôtellerie",
+          "desc": "Accueil, entretien, exploitation hôtelière."
+        },
+        {
+          "title": "Artisanat & Technique",
+          "desc": "Électriciens, mécatronique, construction."
+        },
+        {
+          "title": "Industrie",
+          "desc": "Production, logistique, logistique d'entrepôt."
+        },
+        {
+          "title": "Autres métiers",
+          "desc": "De nombreux autres postes d'apprentissage et qualifiés."
+        }
+      ]
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "À propos",
+      "description": "ChanceConnect est spécialisée dans le placement d'apprentis et de personnel qualifié auprès d'entreprises en Allemagne — personnel, transparent et international."
+    },
+    "hero": {
+      "badge": "À propos",
+      "title": "Créer des opportunités, façonner l'avenir",
+      "subtitle": "ChanceConnect relie les talents du Maroc aux entreprises et établissements de formation en Allemagne — un accompagnement professionnel de la première candidature à une intégration réussie."
+    },
+    "intro": {
+      "title": "Qui nous sommes",
+      "paragraphs": [
+        "ChanceConnect est spécialisée dans le placement d'apprentis et de professionnels qualifiés du Maroc auprès d'entreprises et d'établissements de formation en Allemagne.",
+        "Nous accompagnons candidats et employeurs de façon professionnelle — de la première candidature au visa jusqu'à une intégration réussie. Notre objectif : créer des opportunités et bâtir des partenariats durables."
+      ]
+    },
+    "pillars": {
+      "title": "Ce que nous défendons",
+      "subtitle": "Trois principes guident notre travail.",
+      "items": [
+        {
+          "title": "Personnel",
+          "desc": "Un interlocuteur dédié à chaque étape."
+        },
+        {
+          "title": "Transparent",
+          "desc": "Des processus clairs et une communication honnête."
+        },
+        {
+          "title": "International",
+          "desc": "Des talents du Maroc, des opportunités partout en Allemagne."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "meta": {
+      "title": "FAQ",
+      "description": "Questions fréquentes sur la candidature, le placement, le visa et l'accompagnement — ChanceConnect répond aux questions essentielles."
+    },
+    "hero": {
+      "badge": "FAQ",
+      "title": "Questions fréquentes",
+      "subtitle": "Réponses aux principales questions des candidats et des employeurs."
+    },
+    "title": "Questions & réponses",
+    "subtitle": "Vous ne trouvez pas votre question ? Contactez-nous directement.",
+    "items": [
+      {
+        "q": "De quels pays viennent vos candidats ?",
+        "a": "Notre priorité est le Maroc. Nous plaçons des jeunes talents motivés et des professionnels qualifiés du Maroc auprès d'entreprises et d'établissements de formation partout en Allemagne."
+      },
+      {
+        "q": "Le placement est-il payant pour les employeurs ?",
+        "a": "Non. Notre service de placement est gratuit pour les employeurs."
+      },
+      {
+        "q": "Comment puis-je postuler en tant que candidat ?",
+        "a": "Simplement par WhatsApp ou e-mail. Envoyez-nous votre CV et nous vous recontacterons."
+      },
+      {
+        "q": "Les entretiens ont-ils lieu en ligne ?",
+        "a": "Oui. Nous organisons des entretiens en ligne entre candidats et employeurs."
+      },
+      {
+        "q": "Assurez-vous un accompagnement après l'arrivée en Allemagne ?",
+        "a": "Oui. Nous aidons notamment pour l'accueil à l'aéroport, la recherche de logement, la déclaration de domicile, le compte bancaire, l'assurance maladie et les démarches administratives."
+      },
+      {
+        "q": "Dans quelles langues proposez-vous votre service ?",
+        "a": "Nous communiquons en allemand, anglais, français et arabe."
+      },
+      {
+        "q": "Dans quels domaines placez-vous des candidats ?",
+        "a": "Notamment en santé & soins, gastronomie, hôtellerie, artisanat & technique et industrie."
+      },
+      {
+        "q": "Travaillez-vous avec des établissements de formation ?",
+        "a": "Oui. Nous coopérons avec des écoles de soins infirmiers, des centres de formation et d'autres établissements d'enseignement, et facilitons leur collaboration avec des entreprises formatrices et des candidats marocains adaptés."
+      }
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact",
+      "description": "Contactez ChanceConnect par WhatsApp, e-mail ou via notre formulaire de contact. Au plaisir de vous lire."
+    },
+    "hero": {
+      "badge": "Contact",
+      "title": "Parlons-en",
+      "subtitle": "Candidat ou employeur — choisissez le moyen qui vous convient le mieux."
+    },
+    "methods": {
+      "title": "Comment nous joindre",
+      "whatsapp": "WhatsApp",
+      "whatsappDesc": "Réponse rapide par chat",
+      "email": "E-mail",
+      "emailDesc": "info@chanceconnect.de",
+      "languages": "Nous parlons votre langue",
+      "languagesDesc": "Allemand · Anglais · Français · Arabe"
+    },
+    "form": {
+      "title": "Envoyer un message",
+      "subtitle": "Remplissez le formulaire — nous vous répondrons rapidement.",
+      "name": "Nom",
+      "email": "E-mail",
+      "subject": "Objet",
+      "role": "Je suis",
+      "roleApplicant": "Candidat",
+      "roleEmployer": "Employeur",
+      "roleOther": "Autre",
+      "domain": "Domaine (optionnel)",
+      "companyName": "Nom de l'entreprise",
+      "message": "Votre message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours…",
+      "success": "Merci ! Votre message a bien été envoyé — nous vous répondrons rapidement.",
+      "error": "Une erreur est survenue. Veuillez réessayer ou nous écrire directement à info@chanceconnect.de.",
+      "note": "Votre message est transmis directement à notre équipe — réponse généralement sous 24 h."
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Confidentialité",
+      "description": "Politique de confidentialité de ChanceConnect conformément au RGPD."
+    },
+    "hero": {
+      "badge": "Mentions légales",
+      "title": "Politique de confidentialité",
+      "subtitle": "Informations sur le traitement de vos données personnelles conformément au RGPD."
+    },
+    "updated": "Dernière mise à jour : 19 octobre 2026",
+    "disclaimer": "Ceci est un modèle. Veuillez l'adapter à votre traitement réel des données et le faire vérifier par un juriste.",
+    "sections": [
+      {
+        "heading": "1. Responsable du traitement",
+        "body": [
+          "Le responsable du traitement des données sur ce site est :",
+          "Falconidae, propriétaire Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund, e-mail : info@chanceconnect.de"
+        ]
+      },
+      {
+        "heading": "2. Collecte de données personnelles",
+        "body": [
+          "Nous traitons les données personnelles que vous nous communiquez via le formulaire de contact, par e-mail ou WhatsApp — nom, coordonnées et dossier de candidature."
+        ]
+      },
+      {
+        "heading": "3. Finalité et base légale",
+        "body": [
+          "Le traitement est effectué pour traiter votre demande et pour le placement, sur la base de l'art. 6, § 1, b) et f) du RGPD."
+        ]
+      },
+      {
+        "heading": "4. Transmission des données",
+        "body": [
+          "Vos données ne sont transmises à des employeurs potentiels qu'avec votre consentement."
+        ]
+      },
+      {
+        "heading": "5. Durée de conservation",
+        "body": [
+          "Nous conservons vos données uniquement le temps nécessaire aux finalités indiquées ou selon les obligations légales."
+        ]
+      },
+      {
+        "heading": "6. Vos droits",
+        "body": [
+          "Vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle."
+        ]
+      },
+      {
+        "heading": "7. Cookies",
+        "body": [
+          "Ce site utilise uniquement des cookies techniquement nécessaires. [À compléter en cas d'utilisation d'autres cookies ou outils d'analyse.]"
+        ]
+      },
+      {
+        "heading": "8. Contact pour la protection des données",
+        "body": [
+          "Pour toute question relative à la confidentialité, contactez-nous à info@chanceconnect.de."
+        ]
+      }
+    ]
+  },
+  "imprint": {
+    "meta": {
+      "title": "Mentions légales",
+      "description": "Mentions légales de ChanceConnect conformément au § 5 TMG."
+    },
+    "hero": {
+      "badge": "Mentions légales",
+      "title": "Mentions légales",
+      "subtitle": "Informations conformément au § 5 TMG (loi allemande sur les médias numériques)."
+    },
+    "updated": "Dernière mise à jour : 19 octobre 2026",
+    "disclaimer": "Ceci est un modèle. Veuillez compléter avec vos informations réelles et faire vérifier les mentions légales par un juriste.",
+    "sections": [
+      {
+        "heading": "Informations selon le § 5 TMG",
+        "body": [
+          "Falconidae",
+          "Propriétaire : Nabil Ayadi",
+          "Alter Heideweg 23",
+          "44339 Dortmund, Allemagne"
+        ]
+      },
+      {
+        "heading": "Représentée par",
+        "body": [
+          "Nabil Ayadi"
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Personne de contact : Nabil Ayadi",
+          "E-mail : info@chanceconnect.de"
+        ]
+      },
+      {
+        "heading": "Numéro de TVA",
+        "body": [
+          "Numéro d'identification à la TVA selon le § 27 a de la loi allemande sur la TVA : DE 332476902"
+        ]
+      },
+      {
+        "heading": "Responsabilité pour les contenus et les liens",
+        "body": [
+          "Les contenus de ces pages ont été élaborés avec le plus grand soin. Nous n'assumons toutefois aucune garantie quant à leur exactitude, exhaustivité et actualité. Les exploitants des sites externes liés sont seuls responsables de leur contenu."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "CGU",
+      "description": "Conditions générales de ChanceConnect pour le placement d'apprentis et de professionnels qualifiés."
+    },
+    "hero": {
+      "badge": "Mentions légales",
+      "title": "Conditions générales",
+      "subtitle": "Les conditions régissant l'utilisation de nos services de placement pour les candidats et les employeurs."
+    },
+    "updated": "Dernière mise à jour : 19 octobre 2026",
+    "disclaimer": "Ceci est un modèle. Veuillez adapter les conditions à vos prestations réelles et les faire vérifier par un juriste.",
+    "sections": [
+      {
+        "heading": "1. Champ d'application",
+        "body": [
+          "La marque ChanceConnect est exploitée par Falconidae, propriétaire Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund.",
+          "Les présentes conditions générales (CG) s'appliquent à toutes les prestations de ChanceConnect (« nous » ou « ChanceConnect ») envers les candidats et les employeurs (« utilisateurs »).",
+          "Toute condition contraire de l'utilisateur ne s'applique que si nous l'acceptons expressément par écrit."
+        ]
+      },
+      {
+        "heading": "2. Objet des prestations",
+        "body": [
+          "ChanceConnect place des apprentis et des professionnels qualifiés internationaux auprès d'entreprises en Allemagne et accompagne l'ensemble du processus — de la candidature à la procédure de visa jusqu'à l'arrivée et l'intégration.",
+          "L'étendue précise des prestations résulte de l'accord concerné et des descriptions figurant sur ce site."
+        ]
+      },
+      {
+        "heading": "3. Conclusion du contrat",
+        "body": [
+          "La présentation de nos prestations sur le site ne constitue pas une offre ferme. Un contrat n'est conclu que lorsque nous acceptons expressément une demande ou commençons à fournir la prestation."
+        ]
+      },
+      {
+        "heading": "4. Obligations de coopération de l'utilisateur",
+        "body": [
+          "L'utilisateur met à notre disposition, de manière complète et véridique, toutes les informations et tous les documents nécessaires au placement et les tient à jour.",
+          "L'utilisateur est responsable de l'exactitude des données, diplômes et justificatifs de qualification transmis."
+        ]
+      },
+      {
+        "heading": "5. Rémunération",
+        "body": [
+          "Le placement est gratuit pour les candidats. Pour les employeurs, toute rémunération éventuelle est régie par l'accord individuel.",
+          "Sauf convention contraire, l'utilisation de ce site n'entraîne aucun frais pour l'utilisateur."
+        ]
+      },
+      {
+        "heading": "6. Absence de garantie de placement",
+        "body": [
+          "Nous fournissons nos prestations avec le plus grand soin, mais ne garantissons aucun résultat déterminé. Aucun droit à la conclusion d'un contrat d'apprentissage ou de travail ni à la délivrance d'un visa n'existe.",
+          "Les décisions des employeurs et des autorités échappent à notre contrôle."
+        ]
+      },
+      {
+        "heading": "7. Responsabilité",
+        "body": [
+          "Nous répondons sans limitation en cas de dol et de faute lourde ainsi que des dommages résultant d'une atteinte à la vie, au corps ou à la santé.",
+          "En cas de simple négligence, nous ne répondons qu'en cas de manquement à une obligation contractuelle essentielle et dans la limite du dommage prévisible typique du contrat."
+        ]
+      },
+      {
+        "heading": "8. Protection des données",
+        "body": [
+          "Les données personnelles sont traitées conformément à notre politique de confidentialité."
+        ]
+      },
+      {
+        "heading": "9. Droit de rétractation",
+        "body": [
+          "Les consommateurs disposent d'un droit de rétractation légal. Nous en communiquons les modalités séparément dans une information sur la rétractation avant la conclusion du contrat."
+        ]
+      },
+      {
+        "heading": "10. Dispositions finales",
+        "body": [
+          "Le droit de la République fédérale d'Allemagne s'applique, à l'exclusion de la Convention des Nations unies sur les contrats de vente internationale de marchandises.",
+          "Si certaines dispositions des présentes CG sont invalides, la validité des autres dispositions n'en est pas affectée."
+        ]
+      }
+    ]
+  }
+}

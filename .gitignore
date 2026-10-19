@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.playwright-mcp
+/inspiration
+.mcp.json
+
+# local Claude Code preview config
+/.claude/
