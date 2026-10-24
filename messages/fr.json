@@ -589,6 +589,8 @@
       "sending": "Envoi en cours…",
       "success": "Merci ! Votre message a bien été envoyé — nous vous répondrons rapidement.",
       "error": "Une erreur est survenue. Veuillez réessayer ou nous écrire directement à info@chanceconnect.de.",
+      "errorInvalid": "Veuillez vérifier vos informations : un nom, une adresse e-mail valide (ex. nom@exemple.fr) et un message sont requis.",
+      "errorRateLimited": "Vous avez envoyé plusieurs messages en peu de temps. Veuillez patienter quelques minutes puis réessayer.",
       "note": "Votre message est transmis directement à notre équipe — réponse généralement sous 24 h."
     }
   },

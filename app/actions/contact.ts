@@ -22,10 +22,13 @@ const ROLE_LABEL: Record<ContactRole, string> = {
   other: "Sonstiges",
 };
 
+/** Why a submission failed — picks the message the visitor sees. */
+export type ContactErrorReason = "invalid" | "rateLimited" | "failed";
+
 export type ContactState =
   | { status: "idle" }
   | { status: "success" }
-  | { status: "error" };
+  | { status: "error"; reason: ContactErrorReason };
 
 /** Naive in-memory rate limit: max 3 submissions per IP per 10 minutes. */
 const submissions = new Map<string, number[]>();
@@ -45,6 +48,24 @@ function isRateLimited(ip: string): boolean {
     }
   }
   return false;
+}
+
+/**
+ * Visitor IP as reported by the proxy in front of the app (Hostinger's CDN).
+ * `from` names the header it came from, so the logs show which one is set.
+ */
+function clientIp(h: { get(name: string): string | null }): { ip: string; from: string } {
+  for (const name of ["cf-connecting-ip", "true-client-ip", "x-real-ip", "x-forwarded-for"]) {
+    const ip = h.get(name)?.split(",")[0].trim();
+    if (ip) return { ip, from: name };
+  }
+  return { ip: "", from: "none" };
+}
+
+/** IP with the host part hidden, for logs: 203.0.113.x / 2001:db8:85a3::x */
+function maskIp(ip: string): string {
+  if (ip.includes(":")) return ip.split(":").slice(0, 3).join(":") + "::x";
+  return ip.split(".").slice(0, 3).join(".") + ".x";
 }
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -70,23 +91,29 @@ export async function sendContactMessage(
   const companyName = String(formData.get("companyName") ?? "").trim(); // employer
   const subject = String(formData.get("subject") ?? "").trim(); // other
 
-  if (
-    !name ||
-    !message ||
-    !EMAIL_RE.test(email) ||
-    name.length > 200 ||
-    email.length > 200 ||
-    domain.length > 200 ||
-    companyName.length > 200 ||
-    subject.length > 300 ||
-    message.length > 5000
-  ) {
-    return { status: "error" };
+  // Field names only — never log what the visitor typed.
+  const invalid = [
+    (!name || name.length > 200) && "name",
+    (!EMAIL_RE.test(email) || email.length > 200) && "email",
+    (!message || message.length > 5000) && "message",
+    domain.length > 200 && "domain",
+    companyName.length > 200 && "companyName",
+    subject.length > 300 && "subject",
+  ].filter(Boolean);
+  if (invalid.length > 0) {
+    console.warn(`Contact form rejected (${source}): invalid ${invalid.join(", ")}`);
+    return { status: "error", reason: "invalid" };
   }
 
-  const h = await headers();
-  const ip = (h.get("x-forwarded-for") ?? "unknown").split(",")[0].trim();
-  if (isRateLimited(ip)) return { status: "error" };
+  const { ip, from } = clientIp(await headers());
+  const visitor = ip ? `${maskIp(ip)} via ${from}` : "unknown IP";
+  // Without an IP every visitor would share one bucket, so skip the limit then.
+  if (!ip) {
+    console.warn(`Contact form (${source}): no visitor IP header, rate limit skipped`);
+  } else if (isRateLimited(ip)) {
+    console.warn(`Contact form rejected (${source}): rate limited, ${visitor}`);
+    return { status: "error", reason: "rateLimited" };
+  }
 
   const detail =
     role === "employer" ? companyName : role === "applicant" ? domain : subject;
@@ -123,11 +150,12 @@ export async function sendContactMessage(
     });
     if (!res.ok) {
       console.error("Resend error:", res.status, await res.text());
-      return { status: "error" };
+      return { status: "error", reason: "failed" };
     }
+    console.log(`Contact form sent (${source}), ${visitor}`);
     return { status: "success" };
   } catch (err) {
     console.error("Contact form send failed:", err);
-    return { status: "error" };
+    return { status: "error", reason: "failed" };
   }
 }

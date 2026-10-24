@@ -4,7 +4,18 @@ import { useActionState, useId, useState } from "react";
 import { useTranslations } from "next-intl";
 import { Send, CheckCircle2, AlertCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { sendContactMessage, type ContactRole, type ContactState } from "@/app/actions/contact";
+import {
+  sendContactMessage,
+  type ContactErrorReason,
+  type ContactRole,
+  type ContactState,
+} from "@/app/actions/contact";
+
+const ERROR_KEYS: Record<ContactErrorReason, "errorInvalid" | "errorRateLimited" | "error"> = {
+  invalid: "errorInvalid",
+  rateLimited: "errorRateLimited",
+  failed: "error",
+};
 
 const ROLES: { value: ContactRole; key: "roleApplicant" | "roleEmployer" | "roleOther" }[] = [
   { value: "applicant", key: "roleApplicant" },
@@ -124,7 +135,7 @@ export function ContactForm({
         {state.status === "error" && (
           <p className="flex items-start gap-2 rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm font-medium text-red-800">
             <AlertCircle className="mt-0.5 h-4 w-4 shrink-0" />
-            {t("error")}
+            {t(ERROR_KEYS[state.reason])}
           </p>
         )}
       </div>

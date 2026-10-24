@@ -589,6 +589,8 @@
       "sending": "Wird gesendet …",
       "success": "Vielen Dank! Ihre Nachricht wurde gesendet – wir melden uns zeitnah.",
       "error": "Leider ist etwas schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt an info@chanceconnect.de.",
+      "errorInvalid": "Bitte prüfen Sie Ihre Angaben: Name, eine gültige E-Mail-Adresse (z. B. name@beispiel.de) und eine Nachricht sind erforderlich.",
+      "errorRateLimited": "Sie haben in kurzer Zeit mehrere Nachrichten gesendet. Bitte warten Sie ein paar Minuten und versuchen Sie es dann erneut.",
       "note": "Ihre Nachricht geht direkt an unser Team – wir antworten in der Regel innerhalb von 24 Stunden."
     }
   },

@@ -589,6 +589,8 @@
       "sending": "Sending…",
       "success": "Thank you! Your message has been sent — we'll get back to you shortly.",
       "error": "Something went wrong. Please try again or email us directly at info@chanceconnect.de.",
+      "errorInvalid": "Please check your details: a name, a valid email address (e.g. name@example.com) and a message are required.",
+      "errorRateLimited": "You've sent several messages in a short time. Please wait a few minutes and try again.",
       "note": "Your message goes straight to our team — we usually reply within 24 hours."
     }
   },
