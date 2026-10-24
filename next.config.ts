@@ -7,6 +7,10 @@ const nextConfig: NextConfig = {
   images: {
     formats: ["image/avif", "image/webp"],
   },
+  experimental: {
+    // Hostinger caps processes/threads per account; one build worker stays under it.
+    cpus: 1,
+  },
 };
 
 export default withNextIntl(nextConfig);

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "if command -v taskset >/dev/null 2>&1; then taskset -c 0-3 next build --webpack; else next build --webpack; fi",
     "start": "next start",
     "typecheck": "tsc --noEmit"
   },
