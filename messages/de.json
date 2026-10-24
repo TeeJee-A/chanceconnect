@@ -609,7 +609,7 @@
         "heading": "1. Verantwortlicher",
         "body": [
           "Verantwortlich für die Datenverarbeitung auf dieser Website ist:",
-          "Falconidae, Inhaber Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund, E-Mail: info@chanceconnect.de"
+          "[Firmenname], Inhaber: [Name Inhaber/in], [Straße Hausnummer], [PLZ Ort], E-Mail: info@chanceconnect.de"
         ]
       },
       {
@@ -672,29 +672,29 @@
       {
         "heading": "Angaben gemäß § 5 TMG",
         "body": [
-          "Falconidae",
-          "Inhaber: Nabil Ayadi",
-          "Alter Heideweg 23",
-          "44339 Dortmund, Deutschland"
+          "[Firmenname]",
+          "Inhaber: [Name Inhaber/in]",
+          "[Straße Hausnummer]",
+          "[PLZ Ort], Deutschland"
         ]
       },
       {
         "heading": "Vertreten durch",
         "body": [
-          "Nabil Ayadi"
+          "[Name Inhaber/in]"
         ]
       },
       {
         "heading": "Kontakt",
         "body": [
-          "Ansprechpartner: Nabil Ayadi",
+          "Ansprechpartner: [Name Inhaber/in]",
           "E-Mail: info@chanceconnect.de"
         ]
       },
       {
         "heading": "Umsatzsteuer-ID",
         "body": [
-          "Umsatzsteuer-Identifikationsnummer gemäß § 27 a UStG: DE 332476902"
+          "Umsatzsteuer-Identifikationsnummer gemäß § 27 a UStG: [USt-IdNr.]"
         ]
       },
       {
@@ -721,7 +721,7 @@
       {
         "heading": "1. Geltungsbereich",
         "body": [
-          "Betreiber der Marke ChanceConnect ist die Falconidae, Inhaber Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund.",
+          "Betreiber der Marke ChanceConnect ist [Firmenname], Inhaber: [Name Inhaber/in], [Straße Hausnummer], [PLZ Ort].",
           "Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Leistungen der ChanceConnect (nachfolgend „wir“ oder „ChanceConnect“) gegenüber Bewerbern und Arbeitgebern (nachfolgend „Nutzer“).",
           "Abweichende Bedingungen des Nutzers werden nur wirksam, wenn wir ihnen ausdrücklich schriftlich zustimmen."
         ]

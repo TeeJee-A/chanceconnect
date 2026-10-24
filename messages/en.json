@@ -609,7 +609,7 @@
         "heading": "1. Controller",
         "body": [
           "The controller for data processing on this website is:",
-          "Falconidae, owner Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund, email: info@chanceconnect.de"
+          "[Company name], owner: [Owner name], [Street and number], [Postcode City], email: info@chanceconnect.de"
         ]
       },
       {
@@ -672,29 +672,29 @@
       {
         "heading": "Information pursuant to § 5 TMG",
         "body": [
-          "Falconidae",
-          "Owner: Nabil Ayadi",
-          "Alter Heideweg 23",
-          "44339 Dortmund, Germany"
+          "[Company name]",
+          "Owner: [Owner name]",
+          "[Street and number]",
+          "[Postcode City], Germany"
         ]
       },
       {
         "heading": "Represented by",
         "body": [
-          "Nabil Ayadi"
+          "[Owner name]"
         ]
       },
       {
         "heading": "Contact",
         "body": [
-          "Contact person: Nabil Ayadi",
+          "Contact person: [Owner name]",
           "Email: info@chanceconnect.de"
         ]
       },
       {
         "heading": "VAT ID",
         "body": [
-          "VAT identification number pursuant to § 27 a of the German VAT Act: DE 332476902"
+          "VAT identification number pursuant to § 27 a of the German VAT Act: [VAT ID]"
         ]
       },
       {
@@ -721,7 +721,7 @@
       {
         "heading": "1. Scope",
         "body": [
-          "The ChanceConnect brand is operated by Falconidae, owner Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund.",
+          "The ChanceConnect brand is operated by [Company name], owner: [Owner name], [Street and number], [Postcode City].",
           "These general terms and conditions (GTC) apply to all services provided by ChanceConnect (\"we\" or \"ChanceConnect\") to applicants and employers (\"users\").",
           "Any conflicting terms of the user shall only apply if we expressly agree to them in writing."
         ]

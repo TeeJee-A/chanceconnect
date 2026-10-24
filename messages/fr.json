@@ -609,7 +609,7 @@
         "heading": "1. Responsable du traitement",
         "body": [
           "Le responsable du traitement des données sur ce site est :",
-          "Falconidae, propriétaire Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund, e-mail : info@chanceconnect.de"
+          "[Nom de l'entreprise], propriétaire : [Nom du propriétaire], [Rue et numéro], [Code postal Ville], e-mail : info@chanceconnect.de"
         ]
       },
       {
@@ -672,29 +672,29 @@
       {
         "heading": "Informations selon le § 5 TMG",
         "body": [
-          "Falconidae",
-          "Propriétaire : Nabil Ayadi",
-          "Alter Heideweg 23",
-          "44339 Dortmund, Allemagne"
+          "[Nom de l'entreprise]",
+          "Propriétaire : [Nom du propriétaire]",
+          "[Rue et numéro]",
+          "[Code postal Ville], Allemagne"
         ]
       },
       {
         "heading": "Représentée par",
         "body": [
-          "Nabil Ayadi"
+          "[Nom du propriétaire]"
         ]
       },
       {
         "heading": "Contact",
         "body": [
-          "Personne de contact : Nabil Ayadi",
+          "Personne de contact : [Nom du propriétaire]",
           "E-mail : info@chanceconnect.de"
         ]
       },
       {
         "heading": "Numéro de TVA",
         "body": [
-          "Numéro d'identification à la TVA selon le § 27 a de la loi allemande sur la TVA : DE 332476902"
+          "Numéro d'identification à la TVA selon le § 27 a de la loi allemande sur la TVA : [N° de TVA]"
         ]
       },
       {
@@ -721,7 +721,7 @@
       {
         "heading": "1. Champ d'application",
         "body": [
-          "La marque ChanceConnect est exploitée par Falconidae, propriétaire Nabil Ayadi, Alter Heideweg 23, 44339 Dortmund.",
+          "La marque ChanceConnect est exploitée par [Nom de l'entreprise], propriétaire : [Nom du propriétaire], [Rue et numéro], [Code postal Ville].",
           "Les présentes conditions générales (CG) s'appliquent à toutes les prestations de ChanceConnect (« nous » ou « ChanceConnect ») envers les candidats et les employeurs (« utilisateurs »).",
           "Toute condition contraire de l'utilisateur ne s'applique que si nous l'acceptons expressément par écrit."
         ]
