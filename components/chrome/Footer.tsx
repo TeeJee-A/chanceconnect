@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import { Mail, Languages } from "lucide-react";
+import { Mail, Languages, Phone } from "lucide-react";
 import { Whatsapp } from "@/components/icons/social";
 import { SITE } from "@/lib/site";
 import { Logo } from "./Logo";
@@ -23,6 +23,8 @@ const LEGAL = [
 
 const heading = "text-xs font-bold uppercase tracking-[0.16em] text-teal";
 const link = "text-sm text-muted transition hover:text-deep";
+const iconLink =
+  "inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white text-teal shadow-card transition hover:bg-deep hover:text-white";
 
 export function Footer() {
   const t = useTranslations("footer");
@@ -73,21 +75,28 @@ export function Footer() {
           <div>
             <h3 className={heading}>{t("columns.contact")}</h3>
             <ul className="mt-5 space-y-4">
-              <li>
-                <a
-                  href={SITE.whatsapp.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group flex items-center gap-3"
-                >
-                  <span className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white text-teal shadow-card transition group-hover:bg-deep group-hover:text-white">
-                    <Whatsapp className="h-4.5 w-4.5" />
-                  </span>
-                  <span className="text-sm font-semibold text-deep" dir="ltr">
-                    {SITE.whatsapp.display}
-                  </span>
-                </a>
-              </li>
+              {SITE.contacts.map((c) => (
+                <li key={c.tel}>
+                  <span className="block text-sm font-semibold text-deep">{c.name}</span>
+                  <div className="mt-2 flex items-center gap-2">
+                    <a
+                      href={c.whatsapp}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`${tm("whatsapp")} – ${c.name}`}
+                      className={iconLink}
+                    >
+                      <Whatsapp className="h-4.5 w-4.5" />
+                    </a>
+                    <a href={c.tel} aria-label={`${tm("call")} – ${c.name}`} className={iconLink}>
+                      <Phone className="h-4.5 w-4.5" />
+                    </a>
+                    <a href={c.tel} className="ms-1 text-sm text-muted transition hover:text-deep" dir="ltr">
+                      {c.display}
+                    </a>
+                  </div>
+                </li>
+              ))}
               <li>
                 <a href={`mailto:${SITE.email}`} className="group flex items-center gap-3">
                   <span className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white text-teal shadow-card transition group-hover:bg-deep group-hover:text-white">

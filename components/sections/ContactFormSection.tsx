@@ -1,9 +1,9 @@
 import type { ComponentType } from "react";
 import { useTranslations } from "next-intl";
-import { Mail, Languages, ArrowRight } from "lucide-react";
+import { Mail, Languages, ArrowRight, Phone, UserRound } from "lucide-react";
 import { Reveal } from "@/components/motion/Reveal";
 import { Whatsapp } from "@/components/icons/social";
-import { SITE } from "@/lib/site";
+import { SITE, type Contact } from "@/lib/site";
 import { cn } from "@/lib/utils";
 import type { ContactRole } from "@/app/actions/contact";
 import { ContactForm } from "./ContactForm";
@@ -47,6 +47,47 @@ function Method({
   );
 }
 
+/** A contact person with WhatsApp and call shortcuts. */
+function Person({ contact }: { contact: Contact }) {
+  const t = useTranslations("contact.methods");
+  const action =
+    "inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white text-teal shadow-card transition hover:bg-deep hover:text-white";
+
+  return (
+    <div className="flex items-center gap-4 rounded-2xl p-2">
+      <span className="hidden h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-white text-teal shadow-card sm:inline-flex">
+        <UserRound className="h-5 w-5" />
+      </span>
+      <span className="min-w-0 flex-1">
+        <span className="block font-bold text-deep">{contact.name}</span>
+        <a href={contact.tel} className="block text-sm whitespace-nowrap text-muted hover:text-deep" dir="ltr">
+          {contact.display}
+        </a>
+      </span>
+      <span className="flex shrink-0 gap-2">
+        <a
+          href={contact.whatsapp}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label={`${t("whatsapp")} – ${contact.name}`}
+          title={t("whatsapp")}
+          className={action}
+        >
+          <Whatsapp className="h-4.5 w-4.5" />
+        </a>
+        <a
+          href={contact.tel}
+          aria-label={`${t("call")} – ${contact.name}`}
+          title={t("call")}
+          className={action}
+        >
+          <Phone className="h-4.5 w-4.5" />
+        </a>
+      </span>
+    </div>
+  );
+}
+
 /**
  * Contact block — reachable methods beside the form, inside a soft mint panel.
  * `variant="page"` is the /kontakt layout (the page hero already carries the
@@ -77,12 +118,9 @@ export function ContactFormSection({
             )}
 
             <div className="mt-8 space-y-2">
-              <Method
-                href={SITE.whatsapp.href}
-                Icon={Whatsapp}
-                title={t("methods.whatsapp")}
-                desc={t("methods.whatsappDesc")}
-              />
+              {SITE.contacts.map((c) => (
+                <Person key={c.tel} contact={c} />
+              ))}
               <Method href={`mailto:${SITE.email}`} Icon={Mail} title={t("methods.email")} desc={SITE.email} />
               <Method Icon={Languages} title={t("methods.languages")} desc={t("methods.languagesDesc")} />
             </div>
