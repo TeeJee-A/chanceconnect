@@ -70,7 +70,7 @@ export default async function LocaleLayout({
     "@type": "Organization",
     name: SITE.name,
     url: SITE.url,
-    logo: `${SITE.url}/logo.png`,
+    logo: `${SITE.url}/logo-v2.png`,
     email: SITE.email,
     description: t("description"),
     areaServed: ["DE", "MA"],

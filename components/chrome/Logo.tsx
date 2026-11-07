@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 export function Logo({ className, priority }: { className?: string; priority?: boolean }) {
   return (
     <Image
-      src="/logo.png"
+      src="/logo-v2.png"
       alt="ChanceConnect"
       width={240}
       height={58}
