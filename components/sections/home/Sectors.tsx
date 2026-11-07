@@ -18,21 +18,21 @@ export function Sectors() {
       <div className="container-site">
         <SectionHeading title={t("title")} subtitle={t("subtitle")} />
 
-        <div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-12 grid auto-rows-fr gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {items.map((item, i) => {
             const Icon = ICONS[i % ICONS.length];
             return (
               <Reveal key={item.name} delay={i * 0.05}>
                 <Link
                   href="/stellenangebote"
-                  className="group flex items-center gap-4 rounded-2xl border border-line bg-white p-5 shadow-card transition-all duration-500 hover:-translate-y-1 hover:border-teal/30 hover:shadow-lift"
+                  className="group flex h-full items-center gap-4 rounded-2xl border border-line bg-white p-5 shadow-card transition-all duration-500 hover:-translate-y-1 hover:border-teal/30 hover:shadow-lift"
                 >
                   <span className="inline-flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-mint-soft text-teal transition-colors duration-500 group-hover:bg-deep group-hover:text-white">
                     <Icon className="h-6 w-6" />
                   </span>
                   <div className="min-w-0 flex-1">
                     <h3 className="font-bold text-deep">{item.name}</h3>
-                    <p className="truncate text-sm text-muted">{item.desc}</p>
+                    <p className="text-sm text-muted">{item.desc}</p>
                   </div>
                   <ArrowRight className="h-4 w-4 shrink-0 text-teal opacity-0 transition-all duration-300 group-hover:translate-x-1 group-hover:opacity-100 rtl:rotate-180 rtl:group-hover:-translate-x-1" />
                 </Link>
