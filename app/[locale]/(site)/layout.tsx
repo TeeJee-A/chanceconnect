@@ -1,7 +1,7 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Navbar } from "@/components/chrome/Navbar";
 import { Footer } from "@/components/chrome/Footer";
-import { WhatsAppButton } from "@/components/chrome/WhatsAppButton";
+import { ContactButton } from "@/components/chrome/ContactButton";
 
 export default async function SiteLayout({
   children,
@@ -25,7 +25,7 @@ export default async function SiteLayout({
       <Navbar />
       <main id="main">{children}</main>
       <Footer />
-      <WhatsAppButton />
+      <ContactButton />
     </>
   );
 }
