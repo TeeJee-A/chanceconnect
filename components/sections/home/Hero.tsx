@@ -28,7 +28,7 @@ function JourneyCard() {
       <div className="relative rounded-[2rem] border border-white bg-white/95 p-5 shadow-lift sm:p-7">
         {/* Header */}
         <div className="flex items-center gap-3">
-          <Image src="/logo-mark.png" alt="" width={56} height={42} className="h-9 w-auto" />
+          <Image src="/logo-mark-v2.png" alt="" width={58} height={40} className="h-9 w-auto" />
           <p className="flex-1 font-bold text-deep">{t("title")}</p>
           <span className="rounded-full bg-mint-soft px-2.5 py-1 text-[0.7rem] font-semibold text-teal">
             {t("chip")}

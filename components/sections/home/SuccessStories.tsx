@@ -32,7 +32,7 @@ export function SuccessStories() {
           <div aria-hidden className="relative mx-auto flex aspect-square w-full max-w-xs items-center justify-center">
             <div className="absolute inset-0 rounded-full bg-mint-soft" />
             <div className="absolute inset-8 rounded-full border-2 border-dashed border-mint/50" />
-            <Image src="/logo-mark.png" alt="" width={600} height={445} className="relative w-3/4" />
+            <Image src="/logo-mark-v2.png" alt="" width={600} height={413} className="relative w-3/4" />
           </div>
         </Reveal>
       </div>

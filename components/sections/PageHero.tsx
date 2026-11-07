@@ -13,10 +13,10 @@ export function PageHero({ namespace }: { namespace: string }) {
       <div aria-hidden className="pointer-events-none absolute inset-0">
         <div className="dots absolute inset-y-0 end-0 w-1/2 text-teal/[0.08] [mask-image:linear-gradient(to_left,black,transparent)] rtl:[mask-image:linear-gradient(to_right,black,transparent)]" />
         <Image
-          src="/logo-mark.png"
+          src="/logo-mark-v2.png"
           alt=""
           width={600}
-          height={445}
+          height={413}
           className="absolute -end-20 top-1/2 hidden w-[30rem] -translate-y-1/2 opacity-[0.13] lg:block"
         />
       </div>
