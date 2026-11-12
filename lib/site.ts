@@ -26,6 +26,12 @@ export const SITE = {
   name: "ChanceConnect",
   url: "https://chanceconnect.de",
   email: "info@chanceconnect.de",
+  address: {
+    street: "Reumontstraße 9",
+    postalCode: "52064",
+    city: "Aachen",
+    country: "DE",
+  },
   contacts: CONTACTS,
   /** Single-button spots (floating button, menu, FAQ, final CTA) open the first contact. */
   whatsapp: {

@@ -72,6 +72,13 @@ export default async function LocaleLayout({
     url: SITE.url,
     logo: `${SITE.url}/logo-v2.png`,
     email: SITE.email,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: SITE.address.street,
+      postalCode: SITE.address.postalCode,
+      addressLocality: SITE.address.city,
+      addressCountry: SITE.address.country,
+    },
     description: t("description"),
     areaServed: ["DE", "MA"],
     sameAs: Object.values(SITE.social),
