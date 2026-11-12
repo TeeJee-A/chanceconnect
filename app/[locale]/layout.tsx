@@ -74,6 +74,7 @@ export default async function LocaleLayout({
     email: SITE.email,
     description: t("description"),
     areaServed: ["DE", "MA"],
+    sameAs: Object.values(SITE.social),
   };
 
   return (

@@ -32,4 +32,8 @@ export const SITE = {
     display: CONTACTS[0].display,
     href: CONTACTS[0].whatsapp,
   },
+  social: {
+    instagram: "https://www.instagram.com/chance.connect",
+    facebook: "https://www.facebook.com/profile.php?id=61592195801775",
+  },
 } as const;

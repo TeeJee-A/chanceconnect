@@ -1,7 +1,7 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Mail, Languages, Phone } from "lucide-react";
-import { Whatsapp } from "@/components/icons/social";
+import { Facebook, Instagram, Whatsapp } from "@/components/icons/social";
 import { SITE } from "@/lib/site";
 import { Logo } from "./Logo";
 
@@ -21,7 +21,12 @@ const LEGAL = [
   { key: "terms", href: "/agb" },
 ] as const;
 
-const heading = "text-xs font-bold uppercase tracking-[0.16em] text-teal";
+const SOCIAL = [
+  { label: "Instagram", href: SITE.social.instagram, Icon: Instagram },
+  { label: "Facebook", href: SITE.social.facebook, Icon: Facebook },
+] as const;
+
+const heading ="text-xs font-bold uppercase tracking-[0.16em] text-teal";
 const link = "text-sm text-muted transition hover:text-deep";
 const iconLink =
   "inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white text-teal shadow-card transition hover:bg-deep hover:text-white";
@@ -41,6 +46,20 @@ export function Footer() {
             <Logo className="h-12 sm:h-14" />
             <p className="mt-6 text-base font-semibold text-deep">{t("tagline")}</p>
             <p className="mt-2 text-sm leading-relaxed text-muted">{t("blurb")}</p>
+            <div className="mt-6 flex items-center gap-2">
+              {SOCIAL.map(({ label, href, Icon }) => (
+                <a
+                  key={label}
+                  href={href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label={label}
+                  className={iconLink}
+                >
+                  <Icon className="h-4.5 w-4.5" />
+                </a>
+              ))}
+            </div>
           </div>
 
           {/* Explore */}
