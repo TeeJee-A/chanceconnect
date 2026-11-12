@@ -23,7 +23,7 @@ export function LegalContent({ namespace }: { namespace: string }) {
                 <h2 className="text-lg font-bold text-deep">{s.heading}</h2>
                 <div className="mt-3 space-y-2">
                   {s.body.map((p, j) => (
-                    <p key={j} className="text-[0.95rem] leading-relaxed text-muted">
+                    <p key={j} className="text-[0.95rem] leading-relaxed whitespace-pre-line text-muted">
                       {p}
                     </p>
                   ))}
