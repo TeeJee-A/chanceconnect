@@ -49,12 +49,6 @@
           "Contrat & visa",
           "Arrivée & intégration"
         ],
-        "status": {
-          "done": "Terminé",
-          "current": "En cours",
-          "next": "À venir"
-        },
-        "employerFree": "Gratuit pour les employeurs",
         "languages": "Service en 4 langues"
       }
     },

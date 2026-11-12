@@ -49,12 +49,6 @@
           "Vertrag & Visum",
           "Ankunft & Integration"
         ],
-        "status": {
-          "done": "Erledigt",
-          "current": "In Bearbeitung",
-          "next": "Als Nächstes"
-        },
-        "employerFree": "Kostenlos für Arbeitgeber",
         "languages": "Service in 4 Sprachen"
       }
     },

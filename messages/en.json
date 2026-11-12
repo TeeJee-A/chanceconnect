@@ -49,12 +49,6 @@
           "Contract & visa",
           "Arrival & integration"
         ],
-        "status": {
-          "done": "Done",
-          "current": "In progress",
-          "next": "Up next"
-        },
-        "employerFree": "Free for employers",
         "languages": "Service in 4 languages"
       }
     },

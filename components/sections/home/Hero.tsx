@@ -2,7 +2,7 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/Button";
 import { cn } from "@/lib/utils";
-import { MapPin, ArrowRight, Check, Plane, BadgeCheck, Languages } from "lucide-react";
+import { MapPin, ArrowRight, Check, Plane, Languages } from "lucide-react";
 
 const STATS = [
   { key: "satisfaction", value: "100%" },
@@ -81,27 +81,13 @@ function JourneyCard() {
                 <span className={cn("min-w-0 flex-1 text-sm font-semibold hyphens-auto", status === "next" ? "text-muted" : "text-ink")}>
                   {s}
                 </span>
-                <span
-                  className={cn(
-                    "shrink-0 text-[0.7rem] font-semibold",
-                    status === "done" && "text-teal",
-                    status === "current" && "text-deep",
-                    status === "next" && "text-muted",
-                  )}
-                >
-                  {t(`status.${status}`)}
-                </span>
               </li>
             );
           })}
         </ol>
       </div>
 
-      {/* Floating chips */}
-      <div className="animate-float absolute -bottom-6 -start-3 flex items-center gap-2 rounded-2xl bg-deep px-4 py-3 text-sm font-semibold text-white shadow-lift sm:-start-8">
-        <BadgeCheck className="h-5 w-5 text-mint" />
-        {t("employerFree")}
-      </div>
+      {/* Floating chip */}
       <div
         className="animate-float absolute -top-5 -end-2 hidden items-center gap-2 rounded-2xl bg-white px-4 py-3 text-sm font-semibold text-deep shadow-lift ring-1 ring-line sm:flex sm:-end-6"
         style={{ animationDelay: "-3.5s" }}
