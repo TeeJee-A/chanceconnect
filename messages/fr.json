@@ -69,12 +69,11 @@
       "employer": {
         "label": "Pour les employeurs",
         "title": "Trouvez des professionnels motivés",
-        "desc": "Nous plaçons des apprentis et du personnel qualifié vérifiés — gratuit pour les employeurs.",
+        "desc": "Nous plaçons des apprentis et du personnel qualifié vérifiés.",
         "cta": "Pour les employeurs",
         "points": [
           "Candidats présélectionnés",
-          "Entretiens en ligne",
-          "Placement gratuit"
+          "Entretiens en ligne"
         ]
       }
     },
@@ -326,12 +325,12 @@
   "arbeitgeber": {
     "meta": {
       "title": "Pour les employeurs",
-      "description": "ChanceConnect aide les entreprises allemandes à recruter des apprentis et du personnel qualifié motivés — gratuitement et avec un accompagnement personnalisé."
+      "description": "ChanceConnect aide les entreprises allemandes à recruter des apprentis et du personnel qualifié motivés — avec un accompagnement personnalisé."
     },
     "hero": {
-      "badge": "Gratuit pour les employeurs",
+      "badge": "Pour les employeurs",
       "title": "Trouvez des professionnels motivés",
-      "subtitle": "Vous cherchez des apprentis ou des professionnels qualifiés ? Nous plaçons des candidats vérifiés du Maroc — le placement est gratuit pour les employeurs."
+      "subtitle": "Vous cherchez des apprentis ou des professionnels qualifiés ? Nous plaçons des candidats vérifiés du Maroc."
     },
     "services": {
       "title": "Nos services",

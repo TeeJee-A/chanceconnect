@@ -69,12 +69,11 @@
       "employer": {
         "label": "For Employers",
         "title": "Find motivated professionals",
-        "desc": "We place vetted apprentices and skilled workers — free of charge for employers.",
+        "desc": "We place vetted apprentices and skilled workers.",
         "cta": "For Employers",
         "points": [
           "Pre-selected candidates",
-          "Online interviews",
-          "Free placement"
+          "Online interviews"
         ]
       }
     },
@@ -326,12 +325,12 @@
   "arbeitgeber": {
     "meta": {
       "title": "For Employers",
-      "description": "ChanceConnect helps German companies recruit motivated apprentices and skilled workers — free of charge and personally guided."
+      "description": "ChanceConnect helps German companies recruit motivated apprentices and skilled workers — personally guided."
     },
     "hero": {
-      "badge": "Free for employers",
+      "badge": "For Employers",
       "title": "Find motivated professionals",
-      "subtitle": "Looking for apprentices or qualified professionals? We place vetted candidates from Morocco — placement is free for employers."
+      "subtitle": "Looking for apprentices or qualified professionals? We place vetted candidates from Morocco."
     },
     "services": {
       "title": "Our services",

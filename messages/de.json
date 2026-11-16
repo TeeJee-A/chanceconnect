@@ -69,12 +69,11 @@
       "employer": {
         "label": "Für Arbeitgeber",
         "title": "Finden Sie motivierte Fachkräfte",
-        "desc": "Wir vermitteln geprüfte Auszubildende und Fachkräfte – für Arbeitgeber kostenlos.",
+        "desc": "Wir vermitteln geprüfte Auszubildende und Fachkräfte.",
         "cta": "Für Arbeitgeber",
         "points": [
           "Vorausgewählte Kandidaten",
-          "Online-Vorstellungsgespräche",
-          "Kostenlose Vermittlung"
+          "Online-Vorstellungsgespräche"
         ]
       }
     },
@@ -326,12 +325,12 @@
   "arbeitgeber": {
     "meta": {
       "title": "Für Arbeitgeber",
-      "description": "ChanceConnect unterstützt deutsche Unternehmen bei der Rekrutierung motivierter Auszubildender und Fachkräfte – kostenlos und persönlich begleitet."
+      "description": "ChanceConnect unterstützt deutsche Unternehmen bei der Rekrutierung motivierter Auszubildender und Fachkräfte – persönlich begleitet."
     },
     "hero": {
-      "badge": "Kostenlos für Arbeitgeber",
+      "badge": "Für Arbeitgeber",
       "title": "Finden Sie motivierte Fachkräfte",
-      "subtitle": "Sie suchen Auszubildende oder qualifizierte Fachkräfte? Wir vermitteln geprüfte Kandidatinnen und Kandidaten aus Marokko – die Vermittlung ist für Arbeitgeber kostenlos."
+      "subtitle": "Sie suchen Auszubildende oder qualifizierte Fachkräfte? Wir vermitteln geprüfte Kandidatinnen und Kandidaten aus Marokko."
     },
     "services": {
       "title": "Unsere Leistungen",
