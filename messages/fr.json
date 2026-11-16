@@ -663,13 +663,13 @@
     "hero": {
       "badge": "Mentions légales",
       "title": "Mentions légales",
-      "subtitle": "Informations conformément au § 5 TMG (loi allemande sur les médias numériques)."
+      "subtitle": "Informations conformément au § 5 DDG (loi allemande sur les services numériques)."
     },
-    "updated": "Dernière mise à jour : 19 octobre 2026",
+    "updated": "Dernière mise à jour : 16 novembre 2026",
     "disclaimer": "Ceci est un modèle. Veuillez compléter avec vos informations réelles et faire vérifier les mentions légales par un juriste.",
     "sections": [
       {
-        "heading": "Informations selon le § 5 TMG",
+        "heading": "Informations selon le § 5 DDG",
         "body": [
           "El Harda und Taib GbR\nNom commercial : Chance Connect\nActivité : agence de placement de personnel (Personalvermittlung)\nReumontstraße 9\n52064 Aachen\nAllemagne"
         ]

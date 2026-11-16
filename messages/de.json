@@ -663,13 +663,13 @@
     "hero": {
       "badge": "Rechtliches",
       "title": "Impressum",
-      "subtitle": "Angaben gemäß § 5 TMG."
+      "subtitle": "Angaben gemäß § 5 DDG."
     },
-    "updated": "Stand: 19. Oktober 2026",
+    "updated": "Stand: 16. November 2026",
     "disclaimer": "Dies ist eine Vorlage. Bitte ergänzen Sie Ihre tatsächlichen Angaben und lassen Sie das Impressum rechtlich prüfen.",
     "sections": [
       {
-        "heading": "Angaben gemäß § 5 TMG",
+        "heading": "Angaben gemäß § 5 DDG",
         "body": [
           "El Harda und Taib GbR\nGeschäftsbezeichnung: Chance Connect\nTätigkeitsbereich: Personalvermittlung\nReumontstraße 9\n52064 Aachen\nDeutschland"
         ]

@@ -663,13 +663,13 @@
     "hero": {
       "badge": "Legal",
       "title": "Imprint",
-      "subtitle": "Information pursuant to § 5 TMG (German Telemedia Act)."
+      "subtitle": "Information pursuant to § 5 DDG (German Digital Services Act)."
     },
-    "updated": "Last updated: 19 October 2026",
+    "updated": "Last updated: 16 November 2026",
     "disclaimer": "This is a template. Please add your actual details and have the imprint reviewed by a lawyer.",
     "sections": [
       {
-        "heading": "Information pursuant to § 5 TMG",
+        "heading": "Information pursuant to § 5 DDG",
         "body": [
           "El Harda und Taib GbR\nTrading name: Chance Connect\nBusiness activity: recruitment agency (Personalvermittlung)\nReumontstraße 9\n52064 Aachen\nGermany"
         ]
