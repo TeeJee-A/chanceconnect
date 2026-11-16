@@ -600,7 +600,7 @@
       "title": "Datenschutzerklärung",
       "subtitle": "Informationen zur Verarbeitung Ihrer personenbezogenen Daten gemäß DSGVO."
     },
-    "updated": "Stand: 19. Oktober 2026",
+    "updated": "Stand: 16. November 2026",
     "disclaimer": "Dies ist eine Vorlage. Bitte passen Sie die Angaben an Ihre tatsächliche Datenverarbeitung an und lassen Sie die Erklärung rechtlich prüfen.",
     "sections": [
       {
@@ -614,7 +614,9 @@
       {
         "heading": "2. Erhebung personenbezogener Daten",
         "body": [
-          "Wir verarbeiten personenbezogene Daten, die Sie uns über das Kontaktformular, per E-Mail oder WhatsApp mitteilen – etwa Name, Kontaktdaten und Bewerbungsunterlagen."
+          "Wir verarbeiten personenbezogene Daten, wenn Sie uns über das Kontaktformular, per E-Mail, Telefon oder WhatsApp Business kontaktieren oder uns Bewerbungsunterlagen übermitteln.",
+          "Dazu gehören insbesondere Name, Kontaktdaten, Nachrichten, Lebensläufe, Zeugnisse, Sprachzertifikate und Angaben zu beruflichen Qualifikationen.",
+          "Wir verwenden diese Daten zur Bearbeitung Ihrer Anfragen, zur Kommunikation sowie zur Vorbereitung und Durchführung unserer Vermittlungs- und Unterstützungsleistungen."
         ]
       },
       {
@@ -624,9 +626,11 @@
         ]
       },
       {
-        "heading": "4. Weitergabe von Daten",
+        "heading": "4. Weitergabe personenbezogener Daten",
         "body": [
-          "Eine Weitergabe Ihrer Daten an potenzielle Arbeitgeber erfolgt ausschließlich mit Ihrer Einwilligung."
+          "Bewerbungsunterlagen und andere personenbezogene Daten geben wir an potenzielle Ausbildungsbetriebe oder Arbeitgeber weiter, soweit dies für die vereinbarte Vermittlung erforderlich ist und eine entsprechende Rechtsgrundlage besteht.",
+          "Wir informieren die Bewerber vor der Weitergabe und stimmen diese mit ihnen ab. Soweit die Weitergabe auf einer Einwilligung beruht, kann diese jederzeit mit Wirkung für die Zukunft widerrufen werden.",
+          "Zur Bereitstellung unserer Webseite und zur Kommunikation können außerdem technische Dienstleister personenbezogene Daten im erforderlichen Umfang verarbeiten."
         ]
       },
       {
@@ -638,19 +642,42 @@
       {
         "heading": "6. Ihre Rechte",
         "body": [
-          "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie ein Beschwerderecht bei einer Aufsichtsbehörde."
+          "Sie haben nach Maßgabe der gesetzlichen Vorschriften das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Datenübertragbarkeit.",
+          "Sie können einer Verarbeitung auf Grundlage berechtigter Interessen widersprechen. Eine erteilte Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.",
+          "Sie haben außerdem das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.",
+          "Zur Ausübung Ihrer Rechte können Sie uns unter info@chanceconnect.de kontaktieren."
         ]
       },
       {
-        "heading": "7. Cookies",
+        "heading": "7. Cookies und Tracking",
         "body": [
-          "Diese Website verwendet ausschließlich technisch notwendige Cookies. [Bei Einsatz weiterer Cookies oder Analyse-Tools bitte ergänzen.]"
+          "Wir verwenden keine Cookies zu Werbe- oder Analysezwecken und setzen keine entsprechenden Tracking-Tools zur Auswertung des Besucherverhaltens ein.",
+          "Soweit für den technischen Betrieb unserer Webseite Cookies oder vergleichbare Technologien erforderlich sind, werden diese ausschließlich für die Bereitstellung und Funktionalität der Webseite eingesetzt."
         ]
       },
       {
         "heading": "8. Kontakt zum Datenschutz",
         "body": [
           "Bei Fragen zum Datenschutz erreichen Sie uns unter info@chanceconnect.de."
+        ]
+      },
+      {
+        "heading": "9. Hosting und Zugriffsdaten",
+        "body": [
+          "Unsere Webseite und unsere geschäftlichen E-Mail-Postfächer werden bei Hostinger betrieben.",
+          "Beim Aufruf unserer Webseite werden technisch erforderliche Verbindungsdaten verarbeitet. Dazu gehören insbesondere die IP-Adresse sowie Informationen zum Seitenaufruf. Der Hosting-Anbieter kann diese Daten in Serverprotokollen erfassen.",
+          "Die Verarbeitung dient der Bereitstellung, Sicherheit und Stabilität unserer Webseite. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt im sicheren und zuverlässigen Betrieb unseres Internetangebots."
+        ]
+      },
+      {
+        "heading": "10. WhatsApp Business",
+        "body": [
+          "Sie können uns freiwillig über WhatsApp Business kontaktieren. Dabei verarbeiten wir Ihre Telefonnummer, Nachrichten und gegebenenfalls übermittelte Dateien zur Bearbeitung Ihrer Anfrage.",
+          "Rechtsgrundlage ist je nach Anlass Art. 6 Abs. 1 lit. b oder lit. f DSGVO.",
+          "Bei der Nutzung von WhatsApp verarbeitet auch der Anbieter personenbezogene Daten. Dabei kann eine Datenverarbeitung außerhalb des Europäischen Wirtschaftsraums stattfinden.",
+          "Alternativ können Sie uns per E-Mail kontaktieren.",
+          "Weitere Informationen zum Datenschutz bei WhatsApp finden Sie unter:",
+          "https://www.whatsapp.com/legal/privacy-policy-eea"
         ]
       }
     ]

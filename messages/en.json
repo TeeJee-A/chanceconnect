@@ -600,7 +600,7 @@
       "title": "Privacy policy",
       "subtitle": "Information on how we process your personal data under the GDPR."
     },
-    "updated": "Last updated: 19 October 2026",
+    "updated": "Last updated: 16 November 2026",
     "disclaimer": "This is a template. Please adapt it to your actual data processing and have it reviewed by a lawyer.",
     "sections": [
       {
@@ -614,7 +614,9 @@
       {
         "heading": "2. Collection of personal data",
         "body": [
-          "We process personal data you provide via the contact form, email or WhatsApp — such as name, contact details and application documents."
+          "We process personal data when you contact us via the contact form, by email, phone or WhatsApp Business, or send us application documents.",
+          "This includes in particular your name, contact details, messages, CVs, diplomas and references, language certificates and information about your professional qualifications.",
+          "We use this data to process your enquiries, to communicate with you, and to prepare and provide our placement and support services."
         ]
       },
       {
@@ -624,9 +626,11 @@
         ]
       },
       {
-        "heading": "4. Data sharing",
+        "heading": "4. Sharing of personal data",
         "body": [
-          "Your data is shared with potential employers only with your consent."
+          "We pass on application documents and other personal data to potential training companies or employers where this is necessary for the agreed placement and an appropriate legal basis exists.",
+          "We inform applicants before passing on their data and agree on it with them. Where the sharing is based on consent, this consent can be withdrawn at any time with effect for the future.",
+          "Technical service providers may also process personal data to the extent necessary to provide our website and for communication."
         ]
       },
       {
@@ -638,19 +642,42 @@
       {
         "heading": "6. Your rights",
         "body": [
-          "You have the right to access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a supervisory authority."
+          "Subject to the statutory provisions, you have the right of access, rectification, erasure, restriction of processing and data portability.",
+          "You may object to processing based on legitimate interests. You can withdraw any consent you have given at any time with effect for the future.",
+          "You also have the right to lodge a complaint with a competent data protection supervisory authority.",
+          "To exercise your rights, you can contact us at info@chanceconnect.de."
         ]
       },
       {
-        "heading": "7. Cookies",
+        "heading": "7. Cookies and tracking",
         "body": [
-          "This website uses only technically necessary cookies. [Please complete if further cookies or analytics tools are used.]"
+          "We do not use cookies for advertising or analytics purposes and do not use any corresponding tracking tools to analyse visitor behaviour.",
+          "Where cookies or similar technologies are required for the technical operation of our website, they are used exclusively to provide the website and make it work."
         ]
       },
       {
         "heading": "8. Data protection contact",
         "body": [
           "For any privacy questions, contact us at info@chanceconnect.de."
+        ]
+      },
+      {
+        "heading": "9. Hosting and access data",
+        "body": [
+          "Our website and our business email mailboxes are hosted by Hostinger.",
+          "When you visit our website, technically necessary connection data is processed. This includes in particular the IP address and information about the page request. The hosting provider may record this data in server logs.",
+          "The processing serves to provide our website and keep it secure and stable. The legal basis is Art. 6(1)(f) GDPR. Our legitimate interest lies in the secure and reliable operation of our website."
+        ]
+      },
+      {
+        "heading": "10. WhatsApp Business",
+        "body": [
+          "You can contact us voluntarily via WhatsApp Business. In doing so, we process your phone number, messages and any files you send in order to handle your enquiry.",
+          "Depending on the context, the legal basis is Art. 6(1)(b) or (f) GDPR.",
+          "When you use WhatsApp, the provider also processes personal data. This may involve data processing outside the European Economic Area.",
+          "Alternatively, you can contact us by email.",
+          "You can find more information on data protection at WhatsApp at:",
+          "https://www.whatsapp.com/legal/privacy-policy-eea"
         ]
       }
     ]

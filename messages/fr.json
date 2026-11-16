@@ -600,57 +600,94 @@
       "title": "Politique de confidentialité",
       "subtitle": "Informations sur le traitement de vos données personnelles conformément au RGPD."
     },
-    "updated": "Dernière mise à jour : 19 octobre 2026",
+    "updated": "Dernière mise à jour : 16 novembre 2026",
     "disclaimer": "Ceci est un modèle. Veuillez l'adapter à votre traitement réel des données et le faire vérifier par un juriste.",
     "sections": [
       {
-        "heading": "1. Responsable du traitement",
+        "heading": "1. Responsable du traitement des données",
         "body": [
-          "Le responsable du traitement des données personnelles sur ce site, au sens de l'art. 4, point 7, du RGPD, est :",
-          "El Harda und Taib GbR\nNom commercial : Chance Connect\nReumontstraße 9\n52064 Aachen\nAllemagne",
-          "Associés : Noureddine El Harda et Anouar Taib"
+          "Le responsable du traitement des données personnelles est :",
+          "El Harda und Taib GbR\nChanceConnect\nReumontstraße 9\n52064 Aachen\nAllemagne",
+          "Représentée par les associés Noureddine El Harda et Anouar Taib.",
+          "E-mail : info@chanceconnect.de\nSite internet : https://chanceconnect.de"
         ]
       },
       {
-        "heading": "2. Collecte de données personnelles",
+        "heading": "2. Collecte des données personnelles",
         "body": [
-          "Nous traitons les données personnelles que vous nous communiquez via le formulaire de contact, par e-mail ou WhatsApp — nom, coordonnées et dossier de candidature."
+          "Nous traitons des données personnelles lorsque vous nous contactez via le formulaire de contact, par e-mail, par téléphone ou via WhatsApp Business, ou lorsque vous nous transmettez des documents de candidature.",
+          "Ces données comprennent notamment votre nom, vos coordonnées, vos messages, vos CV, vos diplômes, vos certificats de langue et les informations relatives à vos qualifications professionnelles.",
+          "Nous utilisons ces données pour traiter vos demandes, communiquer avec vous ainsi que préparer et fournir nos services de placement et d’accompagnement."
         ]
       },
       {
-        "heading": "3. Finalité et base légale",
+        "heading": "3. Finalités et bases juridiques du traitement",
         "body": [
-          "Le traitement est effectué pour traiter votre demande et pour le placement, sur la base de l'art. 6, § 1, b) et f) du RGPD."
+          "Nous traitons les données personnelles afin de répondre aux demandes, de communiquer avec les candidats et les entreprises, de préparer des contrats d’apprentissage ou de travail et de fournir nos services convenus.",
+          "Lorsque le traitement est nécessaire à l’exécution d’un contrat ou à la mise en œuvre de mesures précontractuelles, il repose sur l’article 6, paragraphe 1, point b), du RGPD.",
+          "Dans les autres cas, le traitement peut reposer sur notre intérêt légitime à répondre aux demandes et à assurer le fonctionnement de nos services, conformément à l’article 6, paragraphe 1, point f), du RGPD.",
+          "Lorsque nous demandons un consentement spécifique, le traitement repose sur l’article 6, paragraphe 1, point a), du RGPD."
         ]
       },
       {
-        "heading": "4. Transmission des données",
+        "heading": "4. Transmission des données personnelles",
         "body": [
-          "Vos données ne sont transmises à des employeurs potentiels qu'avec votre consentement."
+          "Nous transmettons les documents de candidature et d’autres données personnelles à des entreprises susceptibles de proposer une formation professionnelle ou un emploi, lorsque cette transmission est nécessaire au placement convenu et repose sur une base juridique appropriée.",
+          "Nous informons les candidats avant toute transmission et convenons avec eux des modalités de celle-ci.",
+          "Lorsque la transmission repose sur le consentement, celui-ci peut être retiré à tout moment, avec effet pour l’avenir.",
+          "Des prestataires techniques peuvent également traiter certaines données personnelles dans la mesure nécessaire au fonctionnement de notre site internet et à nos communications."
         ]
       },
       {
-        "heading": "5. Durée de conservation",
+        "heading": "5. Durée de conservation des données",
         "body": [
-          "Nous conservons vos données uniquement le temps nécessaire aux finalités indiquées ou selon les obligations légales."
+          "Nous conservons les données personnelles uniquement pendant la durée nécessaire au traitement des demandes ou à la fourniture de nos services.",
+          "Les données sont ensuite supprimées, sauf si des obligations légales de conservation ou d’autres motifs légitimes nécessitent leur conservation pendant une durée supplémentaire."
         ]
       },
       {
         "heading": "6. Vos droits",
         "body": [
-          "Vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle."
+          "Conformément aux dispositions légales applicables, vous disposez notamment des droits suivants :",
+          "• Droit d’accès à vos données personnelles.\n• Droit de rectification des données inexactes.\n• Droit à l’effacement de vos données.\n• Droit à la limitation du traitement.\n• Droit à la portabilité des données.\n• Droit d’opposition aux traitements fondés sur des intérêts légitimes.\n• Droit de retirer votre consentement à tout moment, avec effet pour l’avenir.",
+          "Vous avez également le droit d’introduire une réclamation auprès d’une autorité compétente en matière de protection des données.",
+          "Pour exercer vos droits, vous pouvez nous contacter à l’adresse suivante :",
+          "info@chanceconnect.de"
         ]
       },
       {
-        "heading": "7. Cookies",
+        "heading": "7. Cookies et suivi",
         "body": [
-          "Ce site utilise uniquement des cookies techniquement nécessaires. [À compléter en cas d'utilisation d'autres cookies ou outils d'analyse.]"
+          "Nous n’utilisons pas de cookies à des fins publicitaires ou d’analyse et nous n’utilisons pas d’outils de suivi correspondants pour analyser le comportement des visiteurs.",
+          "Dans la mesure où des cookies ou des technologies similaires sont nécessaires au fonctionnement technique de notre site internet, ils sont utilisés exclusivement pour assurer la disponibilité et le bon fonctionnement du site."
         ]
       },
       {
-        "heading": "8. Contact pour la protection des données",
+        "heading": "8. Contact",
         "body": [
-          "Pour toute question relative à la confidentialité, contactez-nous à info@chanceconnect.de."
+          "Pour toute question concernant la protection de vos données personnelles ou cette politique de confidentialité, vous pouvez nous contacter à l’adresse suivante :",
+          "info@chanceconnect.de"
+        ]
+      },
+      {
+        "heading": "9. Hébergement et données de connexion",
+        "body": [
+          "Notre site internet et nos boîtes e-mail professionnelles sont hébergés chez Hostinger.",
+          "Lorsque vous consultez notre site internet, certaines données techniques de connexion sont traitées. Il s’agit notamment de l’adresse IP et des informations relatives à la consultation des pages. Le fournisseur d’hébergement peut enregistrer ces informations dans des journaux de serveur.",
+          "Ce traitement est nécessaire pour assurer la disponibilité, la sécurité et la stabilité de notre site internet.",
+          "Il repose sur l’article 6, paragraphe 1, point f), du RGPD. Notre intérêt légitime consiste à garantir un fonctionnement sûr et fiable de notre site internet."
+        ]
+      },
+      {
+        "heading": "10. WhatsApp Business",
+        "body": [
+          "Vous pouvez nous contacter volontairement via WhatsApp Business.",
+          "Dans ce cadre, nous traitons votre numéro de téléphone, vos messages et, le cas échéant, les fichiers que vous nous transmettez afin de répondre à votre demande.",
+          "Selon la nature de votre demande, le traitement repose sur l’article 6, paragraphe 1, point b) ou f), du RGPD.",
+          "Lors de l’utilisation de WhatsApp, le fournisseur du service traite également des données personnelles. Ces données peuvent faire l’objet d’un traitement en dehors de l’Espace économique européen.",
+          "Vous pouvez également nous contacter par e-mail si vous préférez ne pas utiliser WhatsApp.",
+          "Pour plus d’informations sur la protection des données par WhatsApp, veuillez consulter :",
+          "https://www.whatsapp.com/legal/privacy-policy-eea"
         ]
       }
     ]
